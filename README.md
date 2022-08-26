@@ -16,3 +16,22 @@ where we can find the parking spaces across our university locations and park ou
 2. cars Fleet(Future perspective app)- Android App
 
 This app maintains all the information of electric vehicles for an organization. where we can track vehicle health, pending bills and amount earned by the vehicles.
+
+
+### Finilaized Project- Bearcat Commute
+
+1. Two types of users
+	Driver
+	Rider
+2. Both users have same login
+3. After login, user selects their role
+4. If selected as rider, 
+	Request Ride UI is displayed
+	Input form is provider to collect the from and to address of rider and time of the ride(15 min interval)
+	Rider can submit a request
+5. If selected as driver,
+	Driver can enter the details of his route and request for any available riders in the same route
+	Driver submits the request
+6. Algorithm runs everyday in the evening from 7 to 9 PM to match drivers and riders
+7. Send notification with the ride details including timings.
+8. Driver and Rider meets the next morning at pick up spot and drives to work/school
