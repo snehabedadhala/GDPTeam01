@@ -1,7 +1,7 @@
 ## Graduate Project 
 ### Contibutors
 * [Sneha Bedadhala](https://github.com/snehabedadhala)
-* Ram Reddy Boppidi
+* [Ram Reddy Boppidi](https://github.com/RamReddy98)
 * Pavan Kalyan Bakkani
 * Sai Kumar Siddagoni
 * Ashok Babu Mannem
