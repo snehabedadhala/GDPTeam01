@@ -4,7 +4,7 @@
 * [Ram Reddy Boppidi](https://github.com/RamReddy98)
 * Pavan Kalyan Bakkani
 * Sai Kumar Siddagoni
-* Ashok Babu Mannem
+* [Ashok Babu Mannam]
 
 
 we do have 2 project ideas:
