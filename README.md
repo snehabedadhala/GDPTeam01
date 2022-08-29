@@ -35,3 +35,6 @@ This app maintains all the information of electric vehicles for an organization.
 6. Algorithm runs everyday in the evening from 7 to 9 PM to match drivers and riders
 7. Send notification with the ride details including timings.
 8. Driver and Rider meets the next morning at pick up spot and drives to work/school
+
+
+I am Ram Reddy. Boppidi- optimistic, goal oriented and self independent. Worked as senior software associate for 2.5 years with NTT DATA. Worked on Flexera, service now, Snow, Excel and SQL. Experienced in both operations and backend including tool monitoring. Worked with different clients for projects related to data reconciliation and database management. Experienced working in a fast-paced environment to meet client's requirements.
