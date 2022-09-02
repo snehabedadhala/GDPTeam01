@@ -48,10 +48,11 @@ Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the p
 Myself Ashok Babu Mannam, I am having 8 years of experience in SQL server and ABBYY Flexicapture.
 
 
-
 Working on ER diagram with different tables and relationshops between them. Moreover, gathering requirements for technical stack for the project and doing a research to integrate maps with the application.
 
 Working on UX/UI design. Designing the user interface(preliminary visual mock-up) for the application. 
 
 
 Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
+
+We as a team worked together on Database schema and completed few ER diagrams related to Login, Register page
