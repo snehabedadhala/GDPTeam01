@@ -43,7 +43,7 @@ This app maintains all the information of electric vehicles for an organization.
 I am Ram Reddy. Boppidi- Worked as software associate for 2.5 years with NTT DATA. Worked on Flexera, service now, Snow, Excel. Experienced in both operations and backend including tool monitoring. Worked with different clients for projects related to data reconciliation and database management. Experienced working in a fast-paced environment to meet client's requirements.
 
 
-Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the project called "Bearcats commute". Previously I did my bachelors in ece and  worked as a system engineer.
+Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the project called "Bearcats commute". I did my bachelors in ece and previusly worked as a system engineer.
 
 
 Working on ER diagram with different tables and relationshops between them. Moreover, gathering requirements for technical stack for the project and doing a research to integrate maps with the application.
