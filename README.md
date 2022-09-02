@@ -37,4 +37,7 @@ This app maintains all the information of electric vehicles for an organization.
 8. Driver and Rider meets the next morning at pick up spot and drives to work/school
 
 
-I am Ram Reddy. Boppidi- optimistic, goal oriented and self independent. Worked as senior software associate for 2.5 years with NTT DATA. Worked on Flexera, service now, Snow, Excel. Experienced in both operations and backend including tool monitoring. Worked with different clients for projects related to data reconciliation and database management. Experienced working in a fast-paced environment to meet client's requirements.
+I am Ram Reddy. Boppidi- Worked as software associate for 2.5 years with NTT DATA. Worked on Flexera, service now, Snow, Excel. Experienced in both operations and backend including tool monitoring. Worked with different clients for projects related to data reconciliation and database management. Experienced working in a fast-paced environment to meet client's requirements.
+
+
+Working on ER diagram with different tables and relationshops between them. Moreover, gathering requirements for technical stack for the project and doing a research to integrate maps with the application.
