@@ -45,6 +45,7 @@ I am Ram Reddy. Boppidi- Worked as software associate for 2.5 years with NTT DAT
 
 Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the project called "Bearcats commute". I did my bachelors in ece and previusly worked as a system engineer.
 
+Myself Ashok Babu Mannam, I am having 8 years of experience in SQL server and ABBYY Flexicapture.
 
 Working on ER diagram with different tables and relationshops between them. Moreover, gathering requirements for technical stack for the project and doing a research to integrate maps with the application.
 
