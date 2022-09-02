@@ -48,3 +48,5 @@ Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the p
 
 Working on ER diagram with different tables and relationshops between them. Moreover, gathering requirements for technical stack for the project and doing a research to integrate maps with the application.
 
+Working on UX/UI design. Designing the user interface(preliminary visual mock-up) for the application. 
+
