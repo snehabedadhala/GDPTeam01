@@ -65,3 +65,5 @@ As a team we worked on the prototype of the project we created some of the entit
 Working more on the ER diagrams and relationships among them for the full databse schema and gathering the technical information.
 
 This week we sat as a team and designed the UI interface design pages document with login page, register page, rider page and driver page. We had a sketch of front user interface.
+
+we have created few ER diagrams for login, register, master pages and planning to complete the remaining ER diagrams for other tables.
