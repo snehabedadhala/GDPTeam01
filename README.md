@@ -56,3 +56,5 @@ Working on UX/UI design. Designing the user interface(preliminary visual mock-up
 Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
 
 We as a team worked together on Database schema and completed few ER diagrams related to Login, Register page
+
+Doing a research on apis to append and integrate maps with the web application.
