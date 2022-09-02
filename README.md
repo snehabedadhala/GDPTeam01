@@ -60,4 +60,6 @@ We as a team worked together on Database schema and completed few ER diagrams re
 Doing a research on apis to append and integrate maps with the web application.
 
 
-As a team we worked on the prototype of the projects we created some of the entity diagrams and looking farward to come up with full schema of the project
+As a team we worked on the prototype of the project we created some of the entity diagrams and looking farward to come up with full schema of the project
+
+Working more on the ER diagrams and relationships among them for the full databse schema and gathering the technical information.
