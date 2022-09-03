@@ -67,3 +67,5 @@ Working more on the ER diagrams and relationships among them for the full databs
 This week we sat as a team and designed the UI interface design pages document with login page, register page, rider page and driver page. We had a sketch of front user interface.
 
 we have created few ER diagrams for login, register, master pages and planning to complete the remaining ER diagrams for other tables.
+
+In this mid week, we sat as team worked on database schema with ER diagrams with relationships with required tables. Further weeks will implement the database.
