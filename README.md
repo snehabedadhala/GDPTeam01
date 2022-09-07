@@ -6,6 +6,7 @@
 * Sai Kumar Siddagoni
 * [Ashok Babu Mannam](https://github.com/AshokBabuMannam)
 
+[Project Board](https://github.com/users/snehabedadhala/projects/3/views/1)
 
 we do have 2 project ideas:
 
