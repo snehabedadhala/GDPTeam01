@@ -90,8 +90,8 @@ I have done a bit of research on google maps Api's.
 
 ##### Reference Links for Documentation
 
-[Link 1](https://developers.google.com/maps/documentation)
-[Link 2](https://developers.google.com/maps/faq#:~:text=The%20Google%20Maps%20Platform%20is,retrieve%20data%20from%20Google%20Maps.)
-[Link 3](https://cloud.google.com/blog/products/maps-platform/three-ways-add-map-implementation-your-app-and-when-use-each)
-[Link 4](https://mapsplatform.google.com/pricing/#:~:text=You%20won't%20be%20charged,your%20%24200%20monthly%20credit).)
+[Link 1](https://developers.google.com/maps/documentation)<br>
+[Link 2](https://developers.google.com/maps/faq#:~:text=The%20Google%20Maps%20Platform%20is,retrieve%20data%20from%20Google%20Maps.)<br>
+[Link 3](https://cloud.google.com/blog/products/maps-platform/three-ways-add-map-implementation-your-app-and-when-use-each)<br>
+[Link 4](https://mapsplatform.google.com/pricing/#:~:text=You%20won't%20be%20charged,your%20%24200%20monthly%20credit)<br>
 
