@@ -101,3 +101,5 @@ Added relations to all the tables and discussed how to maintain the log tables i
 
 
 Created the relationships between the tables in the ER- Diagram and working to implement the complete database schema. While developing the application, based on the performance, we may have split the main table to multiple sub tables. Some more log tables need to be created to maintain and track all the changes.
+
+Since, we designed ER schema last week. Now, we have completed relationships between the entities. Any required changes will be done after the review.
