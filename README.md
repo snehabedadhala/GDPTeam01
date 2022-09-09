@@ -97,3 +97,7 @@ I have done a bit of research on google maps Api's.
 [Link 5](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 Added relations to all the tables and discussed how to maintain the log tables in future with team
+
+
+
+Created the relationships between the tables in the ER- Diagram and working to implement the complete database schema. While developing the application, based on the performance, we may have split the main table to multiple sub tables. Some more log tables need to be created to maintain and track all the changes.
