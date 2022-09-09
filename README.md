@@ -70,3 +70,28 @@ This week we sat as a team and designed the UI interface design pages document w
 we have created few ER diagrams for login, register, master pages and planning to complete the remaining ER diagrams for other tables.
 
 In this mid week, we sat as team worked on database schema with ER diagrams with relationships with required tables. Further weeks will implement the database.
+
+I have done a bit of research on google maps Api's.
+
+1. Google is now requiring a proper API key for accessing the service. can Create a key, or create/find an existing one in your Google Developers Console.
+2. [Click here for documentation](https://developers.google.com/maps/documentation/geocoding/get-api-key)
+3. There are different ways to use the map apis as per our requirement and the technical stack we use.
+4. API Support
+   Currently the library supports full coverage of the following Google Maps APIs:
+   * Geocoding
+   * Elevation
+   * Static Maps
+   * Dynamic Maps
+   * Directions
+   * Distance Matrix
+   * Places
+   * Time Zones
+   * Street View
+
+##### Reference Links for Documentation
+
+[Link 1](https://developers.google.com/maps/documentation)
+[Link 2](https://developers.google.com/maps/faq#:~:text=The%20Google%20Maps%20Platform%20is,retrieve%20data%20from%20Google%20Maps.)
+[Link 3](https://cloud.google.com/blog/products/maps-platform/three-ways-add-map-implementation-your-app-and-when-use-each)
+[Link 4](https://mapsplatform.google.com/pricing/#:~:text=You%20won't%20be%20charged,your%20%24200%20monthly%20credit).)
+
