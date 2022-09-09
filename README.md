@@ -99,9 +99,15 @@ I have done a bit of research on google maps Api's.
 Added relations to all the tables and discussed how to maintain the log tables in future with team
 
 
-
 Created the relationships between the tables in the ER- Diagram and working to implement the complete database schema. While developing the application, based on the performance, we may have split the main table to multiple sub tables. Some more log tables need to be created to maintain and track all the changes.
 
+Since, we designed ER schema last week. Now, we have completed relationships between the entities. Any required changes will be done after the review.
+
+We created relationships among the tables and one important point is we may have to split the main table into multiple tables based on the performance efficiency.
+
+As a team we discussed related to reports(Rider Report, Driver Report) and added those 2 reports in prototype
+
+We have created a Trello Board(To Do List) in github repo with in the project and wiki page has been created. Moreover, we have included reports page for rider & driver with in the prototype.
 
 In this sprint did a research on integrating the google maps api with web applications. Checked with API and the library that supports the web application. Here is the resource https://developers.google.com/maps/documentation/javascript/adding-a-google-map . Looking insights of Collaborative Realtime Mapping with Firebase, Geolocation: Displaying User or Device Position on Maps, Adding a Map and Markers to a React Application and Marker Clustering.
 
