@@ -105,3 +105,5 @@ Created the relationships between the tables in the ER- Diagram and working to i
 Since, we designed ER schema last week. Now, we have completed relationships between the entities. Any required changes will be done after the review.
 
 We created relationships among the tables and one important point is we may have to split the main table into multiple tables based on the performance efficiency.
+
+As a team we discussed related to reports(Rider Report, Driver Report) and added those 2 reports in prototype
