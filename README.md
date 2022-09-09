@@ -95,3 +95,5 @@ I have done a bit of research on google maps Api's.
 [Link 3](https://cloud.google.com/blog/products/maps-platform/three-ways-add-map-implementation-your-app-and-when-use-each)<br>
 [Link 4](https://mapsplatform.google.com/pricing/#:~:text=You%20won't%20be%20charged,your%20%24200%20monthly%20credit)<br>
 [Link 5](https://developers.google.com/maps/documentation/javascript/get-api-key)
+
+Added relations to all the tables and discussed how to maintain the log tables in future with team
