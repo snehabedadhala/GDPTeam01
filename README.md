@@ -111,3 +111,4 @@ We have created a Trello Board(To Do List) in github repo with in the project an
 
 In this sprint did a research on integrating the google maps api with web applications. Checked with API and the library that supports the web application. Here is the resource https://developers.google.com/maps/documentation/javascript/adding-a-google-map . Looking insights of Collaborative Realtime Mapping with Firebase, Geolocation: Displaying User or Device Position on Maps, Adding a Map and Markers to a React Application and Marker Clustering.
 
+we added reports page to the prototype like rider report and driver report. So that there is a clear count on ride given and ride requested from both driver and rider respectively.
