@@ -107,3 +107,5 @@ Since, we designed ER schema last week. Now, we have completed relationships bet
 We created relationships among the tables and one important point is we may have to split the main table into multiple tables based on the performance efficiency.
 
 As a team we discussed related to reports(Rider Report, Driver Report) and added those 2 reports in prototype
+
+We have created a Trello Board(To Do List) in github repo with in the project and wiki page has been created. Moreover, we have included reports page for rider & driver with in the prototype.
