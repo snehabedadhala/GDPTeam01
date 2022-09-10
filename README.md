@@ -119,3 +119,5 @@ Completed protoype of Database Schema with all the relationships.
 Added relations to the tables, need to implement few log tables and also discussed regarding spliting the main tables based on performance. Trying to install Visual Studio 2017.
 
 [Updated Project workflow](https://github.com/snehabedadhala/GDPTeam01/blob/main/Project%20Workflow.pdf)
+
+We want to build the user interface (UI) pages based on our prototype, and we'll do everything we can to create the right pages for the login page, registration page, and driver page.
