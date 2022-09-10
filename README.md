@@ -117,3 +117,5 @@ Completed protoype of Database Schema with all the relationships.
 ![ER Diagram](ERDiagram.jpeg)
 
 Added relations to the tables, need to implement few log tables and also discussed regarding spliting the main tables based on performance. Trying to install Visual Studio 2017.
+
+[updated Project Workflow](https://github.com/snehabedadhala/GDPTeam01/files/9536294/Project.Workflow.pdf)
