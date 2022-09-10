@@ -118,3 +118,4 @@ Completed protoype of Database Schema with all the relationships.
 
 Added relations to the tables, need to implement few log tables and also discussed regarding spliting the main tables based on performance. Trying to install Visual Studio 2017.
 
+[Updated Project workflow](https://github.com/snehabedadhala/GDPTeam01/blob/main/Project%20Workflow.pdf)
