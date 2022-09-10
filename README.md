@@ -6,7 +6,7 @@
 * Sai Kumar Siddagoni
 * [Ashok Babu Mannam](https://github.com/AshokBabuMannam)
 
-[updated Project Board](C:\Users\S546656\Desktop\webapps-repos\GDPTeam01)
+[updated Project Board](https://github.com/snehabedadhala/GDPTeam01/blob/main/Project%20Workflow%20.pdf)
 
 we do have 2 project ideas:
 
