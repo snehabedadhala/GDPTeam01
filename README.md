@@ -115,3 +115,5 @@ we added reports page to the prototype like rider report and driver report. So t
 
 Completed protoype of Database Schema with all the relationships. 
 ![ER Diagram](ERDiagram.jpeg)
+
+Added relations to the tables, need to implement few log tables and also discussed regarding spliting the main tables based on performance. Trying to install Visual Studio 2017.
