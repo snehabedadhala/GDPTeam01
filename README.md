@@ -74,7 +74,7 @@ In this mid week, we sat as team worked on database schema with ER diagrams with
 I have done a bit of research on google maps Api's.
 
 1. Google is now requiring a proper API key for accessing the service. can Create a key, or create/find an existing one in your Google Developers Console.
-2. [Click here for documentation](https://developers.google.com/maps/documentation/geocoding/get-api-key)
+2. [Api Key documentation](https://developers.google.com/maps/documentation/geocoding/get-api-key)
 3. There are different ways to use the map apis as per our requirement and the technical stack we use.
 4. API Support
    Currently the library supports full coverage of the following Google Maps APIs:
@@ -114,10 +114,8 @@ In this sprint did a research on integrating the google maps api with web applic
 we added reports page to the prototype like rider report and driver report. So that there is a clear count on ride given and ride requested from both driver and rider respectively.
 
 Completed protoype of Database Schema with all the relationships. 
-![ER Diagram](ERDiagram.jpeg)
 
 Added relations to the tables, need to implement few log tables and also discussed regarding spliting the main tables based on performance. Trying to install Visual Studio 2017.
 
-[Updated Project workflow](https://github.com/snehabedadhala/GDPTeam01/blob/main/Project%20Workflow.pdf)
 
 We want to build the user interface (UI) pages based on our prototype, and we'll do everything we can to create the right pages for the login page, registration page, and driver page.
