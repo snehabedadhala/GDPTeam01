@@ -125,3 +125,5 @@ Login page UI has been finished. working on register page and at the same time l
 Developed UI pages. Used CSS, HTML, Java Script for designing login pages. Need to make login page functional and establish a connection between driver and rider pages.
 
 Helped team in adding references in project. Downloaded JS libraries
+
+Took help form peers and Installed Microsoft SSMS for database connection and made the connection with project successfully.
