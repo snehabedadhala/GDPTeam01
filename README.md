@@ -123,3 +123,5 @@ We want to build the user interface (UI) pages based on our prototype, and we'll
 Login page UI has been finished. working on register page and at the same time looking on functionality part between the pages.
 
 Developed UI pages. Used CSS, HTML, Java Script for designing login pages. Need to make login page functional and establish a connection between driver and rider pages.
+
+Helped team in adding references in project. Downloaded JS libraries
