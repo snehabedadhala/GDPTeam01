@@ -127,3 +127,5 @@ Developed UI pages. Used CSS, HTML, Java Script for designing login pages. Need 
 Helped team in adding references in project. Downloaded JS libraries
 
 Took help form peers and Installed Microsoft SSMS for database connection and made the connection with project successfully.
+
+Successfully installed the microsoft sql server management studio and created the database and the connection was made successfully with the project.
