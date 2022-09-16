@@ -74,7 +74,7 @@ In this mid week, we sat as team worked on database schema with ER diagrams with
 I have done a bit of research on google maps Api's.
 
 1. Google is now requiring a proper API key for accessing the service. can Create a key, or create/find an existing one in your Google Developers Console.
-2. [Click here for documentation](https://developers.google.com/maps/documentation/geocoding/get-api-key)
+2. [Api Key documentation](https://developers.google.com/maps/documentation/geocoding/get-api-key)
 3. There are different ways to use the map apis as per our requirement and the technical stack we use.
 4. API Support
    Currently the library supports full coverage of the following Google Maps APIs:
@@ -90,11 +90,11 @@ I have done a bit of research on google maps Api's.
 
 ##### Reference Links for Documentation
 
-[Link 1](https://developers.google.com/maps/documentation)<br>
-[Link 2](https://developers.google.com/maps/faq#:~:text=The%20Google%20Maps%20Platform%20is,retrieve%20data%20from%20Google%20Maps.)<br>
-[Link 3](https://cloud.google.com/blog/products/maps-platform/three-ways-add-map-implementation-your-app-and-when-use-each)<br>
-[Link 4](https://mapsplatform.google.com/pricing/#:~:text=You%20won't%20be%20charged,your%20%24200%20monthly%20credit)<br>
-[Link 5](https://developers.google.com/maps/documentation/javascript/get-api-key)
+[Google Maps Platform Documentation; SDKs & APIs](https://developers.google.com/maps/documentation)<br>
+[Google Maps Platform FAQ](https://developers.google.com/maps/faq#:~:text=The%20Google%20Maps%20Platform%20is,retrieve%20data%20from%20Google%20Maps.)<br>
+[Three ways to add a map implementation to your app and when to use each](https://cloud.google.com/blog/products/maps-platform/three-ways-add-map-implementation-your-app-and-when-use-each)<br>
+[Pricing that scales to fit your needs](https://mapsplatform.google.com/pricing/#:~:text=You%20won't%20be%20charged,your%20%24200%20monthly%20credit)<br>
+[Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 Added relations to all the tables and discussed how to maintain the log tables in future with team
 
@@ -114,7 +114,12 @@ In this sprint did a research on integrating the google maps api with web applic
 we added reports page to the prototype like rider report and driver report. So that there is a clear count on ride given and ride requested from both driver and rider respectively.
 
 Completed protoype of Database Schema with all the relationships. 
-![ER Diagram](ERDiagram.jpeg)
 
 Added relations to the tables, need to implement few log tables and also discussed regarding spliting the main tables based on performance. Trying to install Visual Studio 2017.
 
+
+We want to build the user interface (UI) pages based on our prototype, and we'll do everything we can to create the right pages for the login page, registration page, and driver page.
+
+Login page UI has been finished. working on register page and at the same time looking on functionality part between the pages.
+
+Developed UI pages. Used CSS, HTML, Java Script for designing login pages. Need to make login page functional and establish a connection between driver and rider pages.
