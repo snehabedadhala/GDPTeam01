@@ -130,4 +130,6 @@ Took help form peers and Installed Microsoft SSMS for database connection and ma
 
 Successfully installed the microsoft sql server management studio and created the database and the connection was made successfully with the project.
 
-Installed Microsoft sql server and Created Stored Procedure in Database  
+Installed Microsoft sql server and Created Stored Procedure in Database.
+
+have to work on developing the driver and rider pages for registration and make them funcational on web. so that driver/ rider may register and record goes to database to show up. will provide a tentaive date soon on this sprint.
