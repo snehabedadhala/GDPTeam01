@@ -137,3 +137,6 @@ have to work on developing the driver and rider pages for registration and make 
 Created the store procudure in sql server management with the output parameter to test the connectivity between the front end and backend page and it is successfully done.
 
 Installed microsoft visual studio and started developing the user interface for rider and driver login pages with the user name, password fields, login and register button, trying to build the core functionalities with key features.
+
+
+As a team, we created a stored procedure with an output parameter on Microsoft SQL server and tested the connectivity between the front end and backend. Later on will work on front end and backend with the C sharp.
