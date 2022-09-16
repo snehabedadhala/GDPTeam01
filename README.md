@@ -135,3 +135,5 @@ Installed Microsoft sql server and Created Stored Procedure in Database.
 have to work on developing the driver and rider pages for registration and make them functional on web. so that driver/ rider may register and record goes to database to show up. will provide a tentaive date soon on this sprint.
 
 Created the store procudure in sql server management with the output parameter to test the connectivity between the front end and backend page and it is successfully done.
+
+Installed microsoft visual studio and started developing the user interface for rider and driver login pages with the user name, password fields, login and register button, trying to build the core functionalities with key features.
