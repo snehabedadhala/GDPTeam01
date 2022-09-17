@@ -144,3 +144,5 @@ As a team, we created a stored procedure with an output parameter on Microsoft S
 Created tables  in sql server by peering with team mates  for the login page to be functional.
 
 Created few tables in microsoft sql server and helped team in creating the same. Trying to test the connection between frontend and database using the page load method. 
+
+Creating tables to make the login pages functional with database. Trying to make the user interface more functional by establishing the connection between the driver and rider pages. Will work further master pages with more options to make the web application with key features.
