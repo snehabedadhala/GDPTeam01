@@ -140,3 +140,5 @@ Installed microsoft visual studio and started developing the user interface for 
 
 
 As a team, we created a stored procedure with an output parameter on Microsoft SQL server and tested the connectivity between the front end and backend. Later on will work on front end and backend with the C sharp.
+
+Created tables  in sql server by peering with team mates  for the login page to be functional.
