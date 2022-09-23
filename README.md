@@ -11,6 +11,15 @@
 ## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
 
 
+|Name|Roles and Responsibilities|    
+|:---:|:---:|
+|Ram Reddy|Front End-UI|
+|Sneha Bedadhala|Backend-C#|
+|Pavan kalyan|Front End-UI|
+|Ashok Babu|Backend-Database|
+
+---
+
 we do have 2 project ideas:
 
 1. Find your space( parking lot tracker)- Web based Application
