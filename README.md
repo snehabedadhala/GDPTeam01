@@ -6,7 +6,11 @@
 * Sai Kumar Siddagoni
 * [Ashok Babu Mannam](https://github.com/AshokBabuMannam)
 
-[Project Board](https://github.com/users/snehabedadhala/projects/3)
+---
+
+**[Project Board](https://github.com/users/snehabedadhala/projects/3)**
+
+---
 
 we do have 2 project ideas:
 
@@ -18,6 +22,7 @@ where we can find the parking spaces across our university locations and park ou
 
 This app maintains all the information of electric vehicles for an organization. where we can track vehicle health, pending bills and amount earned by the vehicles.
 
+---
 
 ### Finilaized Project- Bearcat Commute
 
@@ -40,26 +45,25 @@ This app maintains all the information of electric vehicles for an organization.
 7. If driver rejects the request, alert is sent out to rider.
 8. Driver and Rider meets the next morning at pick up spot and drives to work/school.
 
+---
 
 I am Ram Reddy. Boppidi- Worked as software associate for 2.5 years with NTT DATA. Worked on Flexera, service now, Snow, Excel. Experienced in both operations and backend including tool monitoring. Worked with different clients for projects related to data reconciliation and database management. Experienced working in a fast-paced environment to meet client's requirements.
-
 
 Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the project called "Bearcats commute". I did my bachelors in ece and previusly worked as a system engineer.
 
 Myself Ashok Babu Mannam, I am having 8 years of experience in SQL server and ABBYY Flexicapture.
 
+Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
+
+---
 
 Working on ER diagram with different tables and relationshops between them. Moreover, gathering requirements for technical stack for the project and doing a research to integrate maps with the application.
 
 Working on UX/UI design. Designing the user interface(preliminary visual mock-up) for the application. 
 
-
-Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
-
 We as a team worked together on Database schema and completed few ER diagrams related to Login, Register page
 
 Doing a research on apis to append and integrate maps with the web application.
-
 
 As a team we worked on the prototype of the project we created some of the entity diagrams and looking farward to come up with full schema of the project
 
