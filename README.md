@@ -11,7 +11,7 @@
 ## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
 
 
-Below are the team members with roles and responsibilities
+Below are the team members with roles and responsibilities.
 
 |Name|Roles and Responsibilities|    
 |:---:|:---:|
@@ -62,7 +62,7 @@ I am Ram Reddy. Boppidi- Worked as software associate for 2.5 years with NTT DAT
 
 Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the project called "Bearcats commute". I did my bachelors in ece and previusly worked as a system engineer.
 
-Myself Ashok Babu Mannam, I am having 8 years of experience in SQL server and ABBYY Flexicapture.
+Myself Ashok Babu Mannam, I am having experience in SQL server and ABBYY Flexicapture.
 
 Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
 
