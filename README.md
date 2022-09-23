@@ -27,20 +27,20 @@ This app maintains all the information of electric vehicles for an organization.
 ### Finilaized Project- Bearcat Commute
 
 > 1. Two types of users
-	 - Driver
-	 - Rider
+	> - Driver
+	> - Rider
 > 2. Both users have same login
-	- Login page will have option to register if the user is first time user.
-	- Will provide an option to reset the password.
+	> - Login page will have option to register if the user is first time user.
+	> - Will provide an option to reset the password.
 > 3. After login, user selects their role
 > 4. If selected as rider, 
-	- Request Ride UI is displayed
-	- List of available rides are displayed. Rider can select the appropriate one.
-	- Rider can submit a request by clicking 'Request Ride' button.
+	> - Request Ride UI is displayed
+	> - List of available rides are displayed. Rider can select the appropriate one.
+	> - Rider can submit a request by clicking 'Request Ride' button.
 > 5. If selected as driver,
-	- Driver can enter the details of his route and submit the ride offer.
-	- Driver will receive an alert when rider submits a request.
-	- Driver can either accept or reject the request. 
+	> - Driver can enter the details of his route and submit the ride offer.
+	> - Driver will receive an alert when rider submits a request.
+	> - Driver can either accept or reject the request. 
 > 6. If driver accepts the request, alert is sent out to rider.
 > 7. If driver rejects the request, alert is sent out to rider.
 > 8. Driver and Rider meets the next morning at pick up spot and drives to work/school.
