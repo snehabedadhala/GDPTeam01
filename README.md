@@ -11,6 +11,8 @@
 ## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
 
 
+Below are the team members with roles and responsibilities
+
 |Name|Roles and Responsibilities|    
 |:---:|:---:|
 |Ram Reddy|Front End-UI|
