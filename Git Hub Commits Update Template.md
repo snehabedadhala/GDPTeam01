@@ -107,3 +107,5 @@ Doing research for making the local database to centralized by using backforeapp
 Working on the workshop documentation and simultaneously looking on project to develop the rider page and furthermore, looking to create few more pages for driver and rider to showup their information.
 
 Helping team in workshop documentation. Working on Database by modifying procedures
+
+Developing the UI Prototype for driver page with functionalities like ride offered, route available and schedule of available rides.( Driver broadcast data)
