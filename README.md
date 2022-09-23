@@ -14,8 +14,9 @@
 |Name|Roles and Responsibilities|    
 |:---:|:---:|
 |Ram Reddy|Front End-UI|
-|Sneha Bedadhala|Backend-C#|
-|Pavan kalyan|Front End-UI|
+|Saikumar Siddagoni|Backend-C#|
+|Sneha Bedadhala|Front End-UI|
+|Pavan kalyan|Backend-C#|
 |Ashok Babu|Backend-Database|
 
 ---
