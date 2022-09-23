@@ -8,7 +8,7 @@
 
 ---
 
-## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
+<span style="color:red"> ## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)** </span>
 
 
 we do have 2 project ideas:
