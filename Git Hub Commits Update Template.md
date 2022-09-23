@@ -115,3 +115,5 @@ Developing the UI Prototype for driver page with functionalities like ride offer
 
 
 Helping the team in designing the workshop document and also learning the C# technology to make and understanding the connections between front and back end.
+
+Looking forward to develop the interface of rider page making it  more functional like ride timings availability and the communication between the rider and driver pages.
