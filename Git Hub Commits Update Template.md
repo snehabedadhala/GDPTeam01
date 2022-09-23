@@ -98,4 +98,4 @@ Updated Registration Table in MS SQL Server by adding few columns and saved the 
 
 Have to make connection for driver and rider functionality, requested professor a tentative date for 2 weeks. will start working on this from this sprint.
 
-By peering with ashok, updated the registration table in ssms> so that data can be saved succesfully from the front end.
+By peering with ashok, updated the registration table in ssms. so that, data can be saved succesfully from the front end.
