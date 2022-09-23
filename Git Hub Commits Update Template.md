@@ -101,3 +101,8 @@ Have to make connection for driver and rider functionality, requested professor 
 By peering with ashok, updated the registration table in ssms. so that, data can be saved succesfully from the front end.
 
 Git Hub(Read me) contents are arranged properly and for commits a separate file has been created to update all the commits instead of updating it in the README file.So that ReadMe looks significant.
+
+
+
+
+Doing research for making the local database to centralized by using backforeapp. 
