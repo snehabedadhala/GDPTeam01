@@ -110,3 +110,4 @@ Helping team in workshop documentation. Working on Database by modifying procedu
 
 Created a registration page for driver. When driver registers to the "Bearcat Commute" application, a user account is created and the records are stored in database. So driver registration page has been made functional. Same steps to be followed for making rider's page functional.
 
+Developing the UI Prototype for driver page with functionalities like ride offered, route available and schedule of available rides.( Driver broadcast data)
