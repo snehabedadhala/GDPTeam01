@@ -8,7 +8,7 @@
 
 ---
 
-**[Project Board](https://github.com/users/snehabedadhala/projects/3)**
+## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
 
 ---
 
@@ -56,6 +56,9 @@ Myself Ashok Babu Mannam, I am having 8 years of experience in SQL server and AB
 Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
 
 ---
+
+
+### Git Hub Commits:
 
 Working on ER diagram with different tables and relationshops between them. Moreover, gathering requirements for technical stack for the project and doing a research to integrate maps with the application.
 
