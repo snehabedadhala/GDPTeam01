@@ -94,7 +94,7 @@ Created few tables in microsoft sql server and helped team in creating the same.
 
 Creating tables to make the login pages functional with database. Trying to make the user interface more functional by establishing the connection between the driver and rider pages. Will work further master pages with more options to make the web application with key features.
 
-Updated Registration Table in MS SQL Server by adding few columns and saved the data coming from frontend
+Updated Registration Table in MS SQL Server by adding few columns and saved the data coming from frontend 
 
 Have to make connection for driver and rider functionality, requested professor a tentative date for 2 weeks. will start working on this from this sprint.
 
