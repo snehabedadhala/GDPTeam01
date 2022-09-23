@@ -28,7 +28,7 @@ This app maintains all the information of electric vehicles for an organization.
 
 > 1. Two types of users
 >    - Driver
->    - Rider
+>    * Rider
 > 2. Both users have same login
 	> - Login page will have option to register if the user is first time user.
 	> - Will provide an option to reset the password.
