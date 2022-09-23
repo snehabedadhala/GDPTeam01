@@ -25,7 +25,7 @@ This app maintains all the information of electric vehicles for an organization.
 
 ### Finilaized Project- Bearcat Commute
 
-> 1. Two types of users
+> - Two types of users
 >    * Driver
 >    * Rider
 > 2. Both users have same login
