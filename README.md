@@ -10,7 +10,6 @@
 
 ## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
 
----
 
 we do have 2 project ideas:
 
