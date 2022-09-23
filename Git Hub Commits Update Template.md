@@ -94,7 +94,7 @@ Created few tables in microsoft sql server and helped team in creating the same.
 
 Creating tables to make the login pages functional with database. Trying to make the user interface more functional by establishing the connection between the driver and rider pages. Will work further master pages with more options to make the web application with key features.
 
-Updated Registration Table in MS SQL Server by adding few columns and saved the data coming from frontend
+Updated Registration Table in MS SQL Server by adding few columns and saved the data coming from frontend 
 
 Have to make connection for driver and rider functionality, requested professor a tentative date for 2 weeks. will start working on this from this sprint.
 
@@ -103,6 +103,10 @@ By peering with ashok, updated the registration table in ssms. so that, data can
 Git Hub(Read me) contents are arranged properly and for commits a separate file has been created to update all the commits instead of updating it in the README file.So that ReadMe looks significant.
 
 Doing research for making the local database to centralized by using backforeapp. 
+
+Working on the workshop documentation and simultaneously looking on project to develop the rider page and furthermore, looking to create few more pages for driver and rider to showup their information.
+
+Helping team in workshop documentation. Working on Database by modifying procedures
 
 Sneha Bedadhala
 
