@@ -121,3 +121,5 @@ Looking forward to develop the interface of rider page making it  more functiona
 Created Documentation on how to install SQL Server and shared it with team
 
 Taking part in preparing the  documentation and looking forward to dig deep into the #Csharp workshop
+
+Gathering requirerments to develop the Driver ride entry page. 
