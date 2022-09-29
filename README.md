@@ -61,6 +61,7 @@ Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the p
 Myself Ashok Babu Mannam, I am having experience in SQL server and ABBYY Flexicapture.
 
 Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
+
 ---
 **Project ideas:**
 
