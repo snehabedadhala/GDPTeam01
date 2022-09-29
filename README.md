@@ -1,41 +1,18 @@
-## Graduate Project 
-### Contibutors
-* [Sneha Bedadhala](https://github.com/snehabedadhala)
-* [Ram Reddy Boppidi](https://github.com/RamReddy98)
-* [Pavan Kalyan Bakkani](https://github.com/pavankalyanbakkani)
-* [Sai Kumar Siddagoni](https://github.com/Saisid123)
-* [Ashok Babu Mannam](https://github.com/AshokBabuMannam)
+## Bearcat Commute
+# Table Of Contents
+**1. Project Introduction** <br>
+
+**2. Project Contributors** <br>
+
+**3. Roles and Responsibilities** <br>
+
+**4. Project Ideas**<br>
+
+
+**5. Project Links**
 
 ---
-
-## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
-
-
-Below are the team members with roles and responsibilities.
-
-|Name|Roles and Responsibilities|    
-|:---:|:---:|
-|Ram Reddy|Front End-UI|
-|Saikumar Siddagoni|Backend-C#|
-|Sneha Bedadhala|Front End-UI|
-|Pavan kalyan|Backend-C#|
-|Ashok Babu|Backend-Database|
-
----
-
-we do have 2 project ideas:
-
-1. Find your space( parking lot tracker)- Web based Application
-
-where we can find the parking spaces across our university locations and park our vehicle as per the availability.
-
-2. cars Fleet(Future perspective app)- Android App
-
-This app maintains all the information of electric vehicles for an organization. where we can track vehicle health, pending bills and amount earned by the vehicles.
-
----
-
-### Finilaized Project- Bearcat Commute
+### Introduction
 
 > - Two types of users
 >    * Driver
@@ -57,6 +34,25 @@ This app maintains all the information of electric vehicles for an organization.
 > - Driver and Rider meets the next morning at pick up spot and drives to work/school.
 
 ---
+### Contibutors
+* [Sneha Bedadhala](https://github.com/snehabedadhala)
+* [Ram Reddy Boppidi](https://github.com/RamReddy98)
+* [Pavan Kalyan Bakkani](https://github.com/pavankalyanbakkani)
+* [Sai Kumar Siddagoni](https://github.com/Saisid123)
+* [Ashok Babu Mannam](https://github.com/AshokBabuMannam)
+
+---
+
+**Roles and responsibilities.**
+
+|Name|Roles and Responsibilities|    
+|:---:|:---:|
+|Ram Reddy|Front End-UI|
+|Saikumar Siddagoni|Backend-C#|
+|Sneha Bedadhala|Front End-UI|
+|Pavan kalyan|Backend-C#|
+|Ashok Babu|Backend-Database|
+
 
 I am Ram Reddy. Boppidi- Worked as software associate for 2.5 years with NTT DATA. Worked on Flexera, service now, Snow, Excel. Experienced in both operations and backend including tool monitoring. Worked with different clients for projects related to data reconciliation and database management. Experienced working in a fast-paced environment to meet client's requirements.
 
@@ -65,5 +61,17 @@ Hi, I am Pavan kalyan Bakkani, currently pursuing master's and  working on the p
 Myself Ashok Babu Mannam, I am having experience in SQL server and ABBYY Flexicapture.
 
 Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
+---
+**Project ideas:**
+
+1. Find your space( parking lot tracker)- Web based Application
+
+where we can find the parking spaces across our university locations and park our vehicle as per the availability.
+
+2. cars Fleet(Future perspective app)- Android App
+
+This app maintains all the information of electric vehicles for an organization. where we can track vehicle health, pending bills and amount earned by the vehicles.
 
 
+
+## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
