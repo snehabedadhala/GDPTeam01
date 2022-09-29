@@ -108,7 +108,19 @@ Working on the workshop documentation and simultaneously looking on project to d
 
 Helping team in workshop documentation. Working on Database by modifying procedures
 
+Sneha Bedadhala
 Created a registration page for driver. When driver registers to the "Bearcat Commute" application, a user account is created and the records are stored in database. So driver registration page has been made functional. Same steps to be followed for making rider's page functional.
+
+Given a presentation on bearcat commute. Mainly focused on the technology we used to develop the application.
+TechStack Used
+Tools: Microsoft Visual Studio
+Front End: HTML,CSS, Java Script, ASP.Net Framework
+Database : SQL Server Management Studio.
+Backend technology: C#
+
+Brief presentation on Three-Layered Architecture. 
+Working on Driver and Rider pages and their functionality.
+  
 
 Developing the UI Prototype for driver page with functionalities like ride offered, route available and schedule of available rides.( Driver broadcast data)
 
@@ -125,3 +137,4 @@ Taking part in preparing the  documentation and looking forward to dig deep into
 Gathering requirerments to develop the Driver ride entry page.  
 
 In this week, worked on the workshop presentation and accomplished successfully.Going forward, will work on the driver rider functionality.
+
