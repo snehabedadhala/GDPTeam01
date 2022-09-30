@@ -147,3 +147,6 @@ In this Sprint, participated in creating the presentation for the workshop on th
 Helping team in preparing the workshop documentation and presented the documentation in class.
 
 Working on the documentation part for mid term presentations.
+
+
+As the part of this Sprint, we developed the rider registration page with appropriate fields and created the ride schedules entry screen on the driver page.
