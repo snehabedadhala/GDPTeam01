@@ -150,3 +150,5 @@ Working on the documentation part for mid term presentations.
 
 
 As the part of this Sprint, we developed the rider registration page with appropriate fields and created the ride schedules entry screen on the driver page.
+
+Working with team to develop Ride entry page, along with helping team in preparing midterm documentation
