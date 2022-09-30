@@ -141,3 +141,5 @@ In this week, worked on the workshop presentation and accomplished successfully.
 Written code for Rider Registration and have to test, whether the record is going to datbase. Moreover, we as a team are working on the functionality part.
 
 So far worked on workshop on c sharp documentation.
+
+In this Sprint, participated in creating the presentation for the workshop on the project insights, I have dealt with creating the slides on C-Sharp technology and its scope for the implementation for our web application.
