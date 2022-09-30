@@ -145,3 +145,5 @@ So far worked on workshop on c sharp documentation.
 In this Sprint, participated in creating the presentation for the workshop on the project insights, I have dealt with creating the slides on C-Sharp technology and its scope for the implementation for our web application.
 
 Helping team in preparing the workshop documentation and presented the documentation in class.
+
+Working on the documentation part for mid term presentations.
