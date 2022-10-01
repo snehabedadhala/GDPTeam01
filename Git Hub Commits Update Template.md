@@ -154,3 +154,5 @@ As the part of this Sprint, we developed the rider registration page with approp
 Working with team to develop Ride entry page, along with helping team in preparing midterm documentation
 
 Working with the team in preparing the midterm documentation and also we developed the driver registration page with the respective fields in it.
+
+In the end of the Sprint, team involved in creating the ppt for the mid term presentation which incluuding the code, events, ressponses, database. We are preparing to present our projevct with embedded images, videos and animations.
