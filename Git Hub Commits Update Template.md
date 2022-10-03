@@ -159,3 +159,5 @@ In the end of the Sprint, team involved in creating the ppt for the mid term pre
 
 We as a team accomplished designing the rider registration page with all required fields and developed the key functionality like ride entry screen with ride schedules, number of available seats in particular rides, pick up and drop off locations.
 
+While developing the screen to display scheduled ride details and we are facing few obstacles where unable to display the ride entered details.
+
