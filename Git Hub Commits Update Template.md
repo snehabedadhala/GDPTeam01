@@ -161,3 +161,4 @@ We as a team accomplished designing the rider registration page with all require
 
 While developing the screen to display scheduled ride details and we are facing few obstacles where unable to display the ride entered details.
 
+So far, worked on login and register pages for both Driver and Rider. started working on the driver functionality as driver can display his rides, this is still in progress with few roadblocks ahead.
