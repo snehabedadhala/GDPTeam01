@@ -175,3 +175,4 @@ Worked on saving all the scheduled ride details on the driver's page and load it
 
 Created the store procedure to disply the driver ride schedule in the UI grid view
 
+Looking further to get clear picture on implementing the driver-rider communication functionality and uploading all the code files in github.
