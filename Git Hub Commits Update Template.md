@@ -120,6 +120,10 @@ Backend technology: C#
 
 Brief presentation on Three-Layered Architecture. 
 Working on Driver and Rider pages and their functionality.
+
+Working on Driver Schedule Page where values are not getting populated in the Grid.
+Working on Rider Broadcast Page to display all his available rides where he can choose a ride.
+Need to work on the communication part between driver and rider.
   
 
 Developing the UI Prototype for driver page with functionalities like ride offered, route available and schedule of available rides.( Driver broadcast data)
@@ -174,3 +178,4 @@ Helped team in preparing midterm documentation, Created procedure to display the
 Worked on saving all the scheduled ride details on the driver's page and load it to a separate screen which is available to riders.
 
 Created the store procedure to disply the driver ride schedule in the UI grid view
+

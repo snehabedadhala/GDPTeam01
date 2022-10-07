@@ -75,4 +75,6 @@ This app maintains all the information of electric vehicles for an organization.
 
 
 
-## **[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)**
+[Project Kanban Board](https://github.com/users/snehabedadhala/projects/3)
+
+
