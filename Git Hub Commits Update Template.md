@@ -166,3 +166,5 @@ So far, worked on login and register pages for both Driver and Rider. started wo
 when trying to call .asmx web service from .aspx, we are unable to display the values in grid.
 
 Going through web services in .net and trying to resolve the grid display issue.
+
+Prepared the documentation for midterm and presented successfully.
