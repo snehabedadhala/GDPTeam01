@@ -182,3 +182,5 @@ Planning to implementing the functionality on the rider's page like selecting th
 Created procedure to display to display the ride data in the UI grid view.
 
 So, far worked on the driver page functionality, created procedures, where the driver ride details can be saved appropriately
+
+Working to show the number of rides available on the ridex, for the convenience of the riders.
