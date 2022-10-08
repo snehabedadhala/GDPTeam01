@@ -177,4 +177,6 @@ Created the store procedure to disply the driver ride schedule in the UI grid vi
 
 Looking further to get clear picture on implementing the driver-rider communication functionality and uploading all the code files in github.
 
-Planning to implementing the functionality on the rider's page like selecting the rides from the available list provided from the driver.
+Planning to implementing the functionality on the rider's page like selecting the rides from the available list provided from the driver..
+
+Created procedure to display to display the ride data in the UI grid view.
