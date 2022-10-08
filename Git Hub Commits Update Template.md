@@ -180,3 +180,5 @@ Looking further to get clear picture on implementing the driver-rider communicat
 Planning to implementing the functionality on the rider's page like selecting the rides from the available list provided from the driver..
 
 Created procedure to display to display the ride data in the UI grid view.
+
+So, far worked on the driver page functionality, created procedures, where the driver ride details can be saved appropriately
