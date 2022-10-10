@@ -167,8 +167,6 @@ when trying to call .asmx web service from .aspx, we are unable to display the v
 
 Going through web services in .net and trying to resolve the grid display issue.
 
-Prepared the documentation for midterm and presented successfully.
-
 Helped team in preparing midterm documentation, Created procedure to display the ride entry details in grid
 
 Worked on saving all the scheduled ride details on the driver's page and load it to a separate screen which is available to riders.
