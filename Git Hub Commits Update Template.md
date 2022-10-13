@@ -185,4 +185,4 @@ Working to show the number of rides available on the ridex, for the convenience 
 
 Considering adding capabilities to the rider's website that will allow them to choose from a list of available rides supplied by the driver.
 
-Grid issue has been resolved. As, we have used Http Get & Post methods in web configuration and values getting displayed.
+Grid issue has been resolved to display schedule ride entry page. As, we have used Http Get & Post methods in web configuration and values getting displayed.
