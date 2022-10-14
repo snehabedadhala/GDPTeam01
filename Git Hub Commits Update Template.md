@@ -108,7 +108,7 @@ Working on the workshop documentation and simultaneously looking on project to d
 
 Helping team in workshop documentation. Working on Database by modifying procedures
 
-Sneha Bedadhala
+### Sneha Bedadhala <br>
 Created a registration page for driver. When driver registers to the "Bearcat Commute" application, a user account is created and the records are stored in database. So driver registration page has been made functional. Same steps to be followed for making rider's page functional.
 
 Given a presentation on bearcat commute. Mainly focused on the technology we used to develop the application.
@@ -120,6 +120,14 @@ Backend technology: C#
 
 Brief presentation on Three-Layered Architecture. 
 Working on Driver and Rider pages and their functionality.
+
+Working on Driver Schedule Page where values are not getting populated in the Grid.
+Working on Rider Broadcast Page to display all his available rides where he can choose a ride.
+Need to work on the communication part between driver and rider.
+
+Developed UI pages for Driver ride entry page and driver schedule pages with values populating in grid view.
+Had issue in populating values in grid which got resolved by adding by adding protocols in web config
+Able to assign the dataset from database to grid to display the driver entered rides.
   
 
 Developing the UI Prototype for driver page with functionalities like ride offered, route available and schedule of available rides.( Driver broadcast data)
