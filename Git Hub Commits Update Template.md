@@ -202,3 +202,5 @@ Looking forward to work on connection between driver and rider. So that rider ca
 After creating the girdview page we are able to display the grid but not the details. we are working on the issue.
 
 doing research on the existing issue(asmx page) and trying to sort out the issue by going through online resources.
+
+Finally after doing the reserch on gridview we found that the issue is because of the protocols not added in webservice. After adding the get, post in web config we are able to debug and displaying the data.
