@@ -191,3 +191,5 @@ Doing research on Back4App to connect with our project. As, it is a centralized 
 
 
 Resolve the webservice issue by passing protocols in the webconfig. Now able to see the Schedules ride entries in a grid format on separate screen
+
+Successfully solved the grid issue, we are able to accept the incoming webservice method requests based on GET and POST protocols after being added to the we.config file
