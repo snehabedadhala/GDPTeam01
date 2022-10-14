@@ -200,3 +200,5 @@ Looking forward to make the local database of project to central by using back4a
 Looking forward to work on connection between driver and rider. So that rider can see all the rides entered by driver.
 
 After creating the girdview page we are able to display the grid but not the details. we are working on the issue.
+
+doing research on the existing issue(asmx page) and trying to sort out the issue by going through online resources.
