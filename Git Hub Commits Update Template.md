@@ -188,3 +188,6 @@ Considering adding capabilities to the rider's website that will allow them to c
 Grid issue has been resolved to display schedule ride entry page. As, we have used Http Get & Post methods in web configuration and values getting displayed.
 
 Doing research on Back4App to connect with our project. As, it is a centralized database. Have to check whether the connection string would work.
+
+
+Resolve the webservice issue by passing protocols in the webconfig. Now able to see the Schedules ride entries in a grid format on separate screen
