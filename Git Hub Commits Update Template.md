@@ -196,3 +196,5 @@ Successfully solved the grid issue, we are able to accept the incoming webservic
 
 
 Looking forward to make the local database of project to central by using back4app. Doing research how to connect the .net project on to back4app.
+
+Looking forward to work on connection between driver and rider. So that rider can see all the rides entered by driver.
