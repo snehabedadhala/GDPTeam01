@@ -215,3 +215,5 @@ Finally after doing the reserch on gridview we found that the issue is because o
 
 
 Planning on UI prototype of the rider screens with some features able to communicate with driver screens. 
+
+Worked on mapping the dataset with database to display the driver ride details on the grid layout
