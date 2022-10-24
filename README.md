@@ -1,15 +1,15 @@
 ## Bearcat Commute
 # Table Of Contents
-**1. Project Introduction** <br>
+### [1. Project Introduction](Introduction) <br>
 
-**2. Project Contributors** <br>
+### [2. Project Contributors](Contributors) <br>
 
-**3. Roles and Responsibilities** <br>
+### [3. Roles and Responsibilities](Roles-and-Responsibilitie) <br>
 
-**4. Project Ideas**<br>
+### [4. Project Ideas](Project-Ideas)<br>
 
 
-**5. Project Links**
+### [5. Project Links](Project-Links)
 
 ---
 ### Introduction
