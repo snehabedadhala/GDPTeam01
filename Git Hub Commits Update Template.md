@@ -221,3 +221,5 @@ Worked on mapping the dataset with database to display the driver ride details o
 Looking forward to make the connection between driver and rider so, that the rider be able to see all the ride schedules entered by driver 
 
 Worked on database by creating table to store the details coming from rider reservation screen.
+
+Created stored procedure to use in rider reservation screen. In this procedure we are accepting parameters coming from DAL layer and saving it in a table to maintain the status and sending the output parameter to display the message in front end.
