@@ -232,3 +232,5 @@ Have to develop the accept and reject functionality for driver.i.e... when a sea
 
 
 Done research about amazon rds, created account account to connect the project on centralized database.
+
+Looking for the functionality,When rider reserves the seat, it needs to be triggered to the driver page that he has reserved the seat for a ride and driver should be able to accept/reject the ride requested.
