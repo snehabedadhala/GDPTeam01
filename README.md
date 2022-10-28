@@ -1,18 +1,18 @@
 ## Bearcat Commute
 # Table Of Contents
-### [1. Project Introduction](Introduction) <br>
+### [1. Project Introduction](#1-Introduction) <br>
 
-### [2. Project Contributors](Contributors) <br>
+### [2. Project Contributors](#2-Contibutors) <br>
 
-### [3. Roles and Responsibilities](Roles-and-Responsibilitie) <br>
+### [3. Roles and Responsibilities](#3-Roles-and-responsibilities) <br>
 
-### [4. Project Ideas](Project-Ideas)<br>
+### [4. Project Ideas](#4-Project-ideas)<br>
 
 
-### [5. Project Links](Project-Links)
+### [5. Project Links](#5-Project-Links)
 
 ---
-### Introduction
+### 1. Introduction
 
 > - Two types of users
 >    * Driver
@@ -34,7 +34,7 @@
 > - Driver and Rider meets the next morning at pick up spot and drives to work/school.
 
 ---
-### Contibutors
+### 2. Contibutors
 * [Sneha Bedadhala](https://github.com/snehabedadhala)
 * [Ram Reddy Boppidi](https://github.com/RamReddy98)
 * [Pavan Kalyan Bakkani](https://github.com/pavankalyanbakkani)
@@ -43,7 +43,7 @@
 
 ---
 
-**Roles and responsibilities.**
+### 3. Roles and responsibilities.
 
 |Name|Roles and Responsibilities|    
 |:---:|:---:|
@@ -63,7 +63,7 @@ Myself Ashok Babu Mannam, I am having experience in SQL server and ABBYY Flexica
 Myself Saikumar Siddagoni! I pursued my bachelor's degree in Computer science. I started my career in BPO. I worked for clients Kohl's, macy's and Lyft. My roles are subject matter expert and team leader. I'm pursuing the Master's in applied computer science to enhance my skillset.
 
 ---
-**Project ideas:**
+### 4. Project ideas
 
 1. Find your space( parking lot tracker)- Web based Application
 
