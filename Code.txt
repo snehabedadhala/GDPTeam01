@@ -1,1 +1,16 @@
+## Sneha Bedadhala
+Date: 10/28/2022
+Written a code for validating the field
 
+        function TotalSeats(cellvalue, options, rowObject) {
+            if (rowObject.AvaSeats == "1")
+                return "<select id='ddlSeats" + options.rowId + "' name='" + options.rowId + "'style='width:75px;'><option value=1>1</option></select>";
+            else if (rowObject.AvaSeats == "2")
+                return "<select id='ddlSeats" + options.rowId + "' name='" + options.rowId + "'style='width:75px;'><option value=1>1</option><option value=2>2</option></select>";
+            else if (rowObject.AvaSeats == "3")
+                return "<select id='ddlSeats" + options.rowId + "' name='" + options.rowId + "'style='width:75px;'><option value=1>1</option><option value=2>2</option><option value=3>3</option></select>";
+            else if (rowObject.AvaSeats == "4")
+                return "<select id='ddlSeats" + options.rowId + "' name='" + options.rowId + "'style='width:75px;'><option value=1>1</option><option value=2>2</option><option value=3>3</option><option value=4>4</option></select>";
+            else if (rowObject.AvaSeats == "5")
+                return "<select id='ddlSeats" + options.rowId + "' name='" + options.rowId + "'style='width:75px;'><option value=1>1</option><option value=2>2</option><option value=3>3</option><option value=4>4</option><option value=5>5</option></select>";
+        }
