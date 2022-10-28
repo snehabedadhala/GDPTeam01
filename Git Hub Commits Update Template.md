@@ -227,3 +227,5 @@ Created stored procedure to use in rider reservation screen. In this procedure w
 Working on database to make it centralized. have come up with Amazon RDS and it is costing us per monthly. will explore GCP & Azure and finalize.
 
 Developed the book a ride screen for a rider, where rider can be able to book the available seats provided by the driver.
+
+Have to develop the accept and reject functionality for driver.i.e... when a seat is booked by rider it will trigger the driver to whether accept/ deny the ride.
