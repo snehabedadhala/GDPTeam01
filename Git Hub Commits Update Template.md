@@ -225,3 +225,5 @@ Worked on database by creating table to store the details coming from rider rese
 Created stored procedure to use in rider reservation screen. In this procedure we are accepting parameters coming from DAL layer and saving it in a table to maintain the status and sending the output parameter to display the message in front end.
 
 Working on database to make it centralized. have come up with Amazon RDS and it is costing us per monthly. will explore GCP & Azure and finalize.
+
+Developed the book a ride screen for a rider, where rider can be able to book the available seats provided by the driver.
