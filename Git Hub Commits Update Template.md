@@ -236,5 +236,3 @@ Done research about amazon rds, created account account to connect the project o
 Looking for the functionality,When rider reserves the seat, it needs to be triggered to the driver page that he has reserved the seat for a ride and driver should be able to accept/reject the ride requested.
 
 When it comes to database as our project is concerned, we are looking to implement and migrate to MySQL and change our scripts accordingly and integrate RDS with our project.(kind of Trial and Error method)
-
-Unable to connect with amazon rds for free, as the microsoft sql server is not a licensed version, so looking for another centralized databases like google cloud platforms and azure
