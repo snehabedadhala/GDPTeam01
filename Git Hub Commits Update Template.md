@@ -242,3 +242,6 @@ Unable to connect with amazon rds for free, as the microsoft sql server is not a
 Helping Team in preparing workshop documentation. Trying to install and connect mysql database.
 
 Making our local database to the centralized database by checking and integrating with diffrent cloud platforms like google cloud, microdoft azure, amazon rds and chaning our scripts to the respective database accordingly.
+
+
+Created a screen on rider page, where the riders able to select the number of seats required and book a ride.
