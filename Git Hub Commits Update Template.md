@@ -240,3 +240,5 @@ When it comes to database as our project is concerned, we are looking to impleme
 Unable to connect with amazon rds for free, as the microsoft sql server is not a licensed version, so looking for another centralized databases like google cloud platforms and azure
 
 Helping Team in preparing workshop documentation. Trying to install and connect mysql database.
+
+Making our local database to the centralized database by checking and integrating with diffrent cloud platforms like google cloud, microdoft azure, amazon rds and chaning our scripts to the respective database accordingly.
