@@ -268,3 +268,4 @@ Created Stored procedure to show the data in the grid (once we click on the hype
 Developed the buttons inside the grid(Accept or Reject buttons). Made changes to procedure where driver clicks on accept or reject button then we are updating the status in the table.
 
 
+Developed the buttons, where driver can ACCEPT OT REJECT the ride requested using the stored procedure inside the gridview.
