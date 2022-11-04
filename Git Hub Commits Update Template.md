@@ -249,3 +249,5 @@ Created a screen on rider page, where the riders able to select the number of se
 Making changes in existing Driver Ride display screen where we have added a hyperlink inside the grid to show the rider reservation details in popup.
 
 So far done with workshop presentation. Working with the team in preparing the midterm documentation and also working on the schedule rides grid to place hyperlink to display the ride reserve details.
+
+working on the centralized database part to get connected with the project. Looking to change our queries to My SQL so that we have a free tier to connect.
