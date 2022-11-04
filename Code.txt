@@ -16,6 +16,12 @@ Written a code for validating the field
         }
 
 
+Date: 11/14/2022
+
+Doing research on implementing code on Session and state management in ASP.NET Core to preserve user data between requests:
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-6.0
+
+********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
 Function for Accept Button
