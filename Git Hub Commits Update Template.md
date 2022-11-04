@@ -247,3 +247,5 @@ Making our local database to the centralized database by checking and integratin
 Created a screen on rider page, where the riders able to select the number of seats required and book a ride.
 
 Making changes in existing Driver Ride display screen where we have added a hyperlink inside the grid to show the rider reservation details in popup.
+
+So far done with workshop presentation. Working with the team in preparing the midterm documentation and also working on the schedule rides grid to place hyperlink to display the ride reserve details.
