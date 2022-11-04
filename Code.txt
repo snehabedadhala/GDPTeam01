@@ -14,3 +14,12 @@ Written a code for validating the field
             else if (rowObject.AvaSeats == "5")
                 return "<select id='ddlSeats" + options.rowId + "' name='" + options.rowId + "'style='width:75px;'><option value=1>1</option><option value=2>2</option><option value=3>3</option><option value=4>4</option><option value=5>5</option></select>";
         }
+
+
+## Ram Reddy. Boppidi
+Date: 11/4/2022
+Function for Accept Button
+
+function btnAccept(cellvalue, options, rowObject) {
+            return '<label id=' + options.rowId + ' onclick="return AcceptRide(' + options.rowId + ');" style="text-decoration:underline;cursor:pointer;color:blue;">' + 'Accept' + '</label>';
+        }
