@@ -108,7 +108,6 @@ Working on the workshop documentation and simultaneously looking on project to d
 
 Helping team in workshop documentation. Working on Database by modifying procedures
 
-***************
 ### Sneha Bedadhala <br>
 Created a registration page for driver. When driver registers to the "Bearcat Commute" application, a user account is created and the records are stored in database. So driver registration page has been made functional. Same steps to be followed for making rider's page functional.
 
@@ -129,16 +128,8 @@ Need to work on the communication part between driver and rider.
 Developed UI pages for Driver ride entry page and driver schedule pages with values populating in grid view.
 Had issue in populating values in grid which got resolved by adding by adding protocols in web config
 Able to assign the dataset from database to grid to display the driver entered rides.
+  
 
-
-1. Developed Rider Broadcast page where he can book rides from all available the rides. We added hyperlink in driver page where he can view all the ride details once the ride is booked by the rider.
-
-2. Created a button "Accept" or "Reject" where the driver has the option to choose.
-
-3. Given workshop presentation with the technologies and upgrades that are done newly in our project.
-
-
-*******
 Developing the UI Prototype for driver page with functionalities like ride offered, route available and schedule of available rides.( Driver broadcast data)
 
 
@@ -269,3 +260,4 @@ Developed the buttons inside the grid(Accept or Reject buttons). Made changes to
 
 
 Developed the buttons, where driver can ACCEPT OT REJECT the ride requested using the stored procedure inside the gridview.
+
