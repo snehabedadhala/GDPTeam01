@@ -252,14 +252,11 @@ So far done with workshop presentation. Working with the team in preparing the m
 
 working on the centralized database part to get connected with the project. Looking to change our queries to My SQL so that we have a free tier to connect.
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
+
 Created a Stored procedure to show the data in the grid(once we click on the hyperlink it will show a popup and inside the popup we have once more grid where the driver can accept or reject the ride)
 
 Developed the buttons inside the grid(Accept or Reject buttons). Made changes to procedure where driver clicks on accept or reject button then we are updating the status in the table.
-=======
->>>>>>> Stashed changes
+
 Successfully done with the workshop presentation, and preparing  documentation for midterm along with the team.
 
 Created Stored procedure to show the data in the grid (once we click on the hyperlink it will show a popup and inside the popup we have one more grid where the driver can accept or reject the ride)
@@ -269,7 +266,3 @@ Developed the buttons inside the grid(Accept or Reject buttons). Made changes to
 
 Developed the buttons, where driver can ACCEPT OT REJECT the ride requested using the stored procedure inside the gridview.
 
-<<<<<<< Updated upstream
-=======
->>>>>>> b34f27047af98f00af7cdd55140a0f4eb66c9af0
->>>>>>> Stashed changes
