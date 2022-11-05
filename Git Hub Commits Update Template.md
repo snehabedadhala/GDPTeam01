@@ -252,11 +252,6 @@ So far done with workshop presentation. Working with the team in preparing the m
 
 working on the centralized database part to get connected with the project. Looking to change our queries to My SQL so that we have a free tier to connect.
 
-
-Created a Stored procedure to show the data in the grid(once we click on the hyperlink it will show a popup and inside the popup we have once more grid where the driver can accept or reject the ride)
-
-Developed the buttons inside the grid(Accept or Reject buttons). Made changes to procedure where driver clicks on accept or reject button then we are updating the status in the table.
-
 Successfully done with the workshop presentation, and preparing  documentation for midterm along with the team.
 
 Created Stored procedure to show the data in the grid (once we click on the hyperlink it will show a popup and inside the popup we have one more grid where the driver can accept or reject the ride)
