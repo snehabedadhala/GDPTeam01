@@ -265,3 +265,5 @@ We have added a hyperlink for the driver when he clicks on the link,he will have
 
 
 In this Sprint, we focused on driver page functionality where driver can receive the ride request from driver through the hyper link, where he can accept or decline.
+
+On a way to decide whether to connect the existing microsoft sql server with amazon rds with subscriotion or simple go with a free tier of amazon rds with My SQl server 
