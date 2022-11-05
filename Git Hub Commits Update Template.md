@@ -262,3 +262,6 @@ Developed the buttons inside the grid(Accept or Reject buttons). Made changes to
 Developed the buttons, where driver can ACCEPT OT REJECT the ride requested using the stored procedure inside the gridview.
 
 We have added a hyperlink for the driver when he clicks on the link,he will have get  clear view about the rider ride reservation details. Also looking to chanage our queries to the My sql server which is a free of cost to centralize the database
+
+
+In this Sprint, we focused on driver page functionality where driver can receive the ride request from driver through the hyper link, where he can accept or decline.
