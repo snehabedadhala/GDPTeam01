@@ -286,3 +286,5 @@ working on stored procedure to make sure manipulating the data while driver acce
 11/07/2022
 
 Done with presentation regarding the progress of the project. Made accept and reject buttons fucntional. Once the rider accepts the ride alert pops up with successful ride register. Once the ride is rejected, the number of seats available field in book ride page will be updated to the original count.
+
+The accept and reject buttons are functional, the no.of seats available are increased/decreased with respect to the driver ride accept/reject, and the seat count is being updated in the field from time to time.
