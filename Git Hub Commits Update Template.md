@@ -278,3 +278,5 @@ Successfully done with the 2nd midterm presentation,next we are aiming to work o
 Worked on driver page nested grid functionality where driver can receive the ride request from rider through the hyper link, where he can accept or decline.
 
 Helping team in preparing the midterm documentation(going through code snippets and taken the screenshots)
+
+Doing research on how to link the screens(by creating menu and adding screens into it)
