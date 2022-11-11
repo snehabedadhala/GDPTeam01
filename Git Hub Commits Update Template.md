@@ -282,3 +282,7 @@ Helping team in preparing the midterm documentation(going through code snippets 
 Doing research on how to link the screens(by creating menu and adding screens into it)
 
 working on stored procedure to make sure manipulating the data while driver accept or rejects the ride
+
+11/07/2022
+
+Done with presentation regarding the progress of the project. Made accept and reject buttons fucntional. Once the rider accepts the ride alert pops up with successful ride register. Once the ride is rejected, the number of seats available field in book ride page will be updated to the original count.
