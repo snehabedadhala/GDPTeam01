@@ -16,10 +16,51 @@ Written a code for validating the field
         }
 
 
-Date: 11/14/2022
+Date: 11/04/2022
 
 Doing research on implementing code on Session and state management in ASP.NET Core to preserve user data between requests:
 https://learn.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-6.0
+
+Date: 11/11/2022
+
+Code for BookingStatus upon accept or rejecting the ride and populating the alert message
+//AcceptRide
+        function AcceptRide(obj) {
+            var ob = new Object();
+            var id = obj;
+            var Rowdata = jQuery("#tblDetails1").jqGrid('getRowData', id);
+            ob.TxnId = Rowdata.TxnId;
+            ob.BookingStatus = "A";
+
+            PageMethods.SaveData(ob, Onsuccess, OnFailure);
+            function Onsuccess(r) {
+                alert(r);
+                location.reload();
+            }
+            function OnFailure(r) {
+                alert(r);
+            }
+            return false;
+        }
+//Reject ride
+        function RejectRide(obj) {
+            var ob = new Object();
+            var id = obj;
+            var Rowdata = jQuery("#tblDetails1").jqGrid('getRowData', id);
+
+            ob.TxnId = Rowdata.TxnId;
+            ob.BookingStatus = "R";
+
+            PageMethods.SaveData(ob, Onsuccess, OnFailure);
+            function Onsuccess(r) {
+                alert(r);
+                location.reload();
+            }
+            function OnFailure(r) {
+                alert(r);
+            }
+            return false;
+        }
 
 ********************
 ## Ram Reddy. Boppidi
