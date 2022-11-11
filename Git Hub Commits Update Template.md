@@ -280,3 +280,5 @@ Worked on driver page nested grid functionality where driver can receive the rid
 Helping team in preparing the midterm documentation(going through code snippets and taken the screenshots)
 
 Doing research on how to link the screens(by creating menu and adding screens into it)
+
+working on stored procedure to make sure manipulating the data while driver accept or rejects the ride
