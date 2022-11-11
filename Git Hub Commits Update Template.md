@@ -272,3 +272,5 @@ On a way to decide whether to connect the existing microsoft sql server with ama
 For the next sprint, we will aim to work on session ids, we are planning to work on the menu about the flow of the screens and also will work on validations.
 
 Done with midterm presentation and will work on implementing the menu, simultaneously working on My SQL migration as well.
+
+Successfully done with the 2nd midterm presentation,next we are aiming to work on menu.
