@@ -276,3 +276,5 @@ Done with midterm presentation and will work on implementing the menu, simultane
 Successfully done with the 2nd midterm presentation,next we are aiming to work on menu.
 
 Worked on driver page nested grid functionality where driver can receive the ride request from rider through the hyper link, where he can accept or decline.
+
+Helping team in preparing the midterm documentation(going through code snippets and taken the screenshots)
