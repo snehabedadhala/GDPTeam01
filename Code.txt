@@ -29,3 +29,9 @@ Function for Accept Button
 function btnAccept(cellvalue, options, rowObject) {
             return '<label id=' + options.rowId + ' onclick="return AcceptRide(' + options.rowId + ');" style="text-decoration:underline;cursor:pointer;color:blue;">' + 'Accept' + '</label>';
         }
+
+
+Function for Reject Button
+function btnReject(cellvalue, options, rowObject) {
+            return '<label id=' + options.rowId + ' onclick="return RejectRide(' + options.rowId + ');" style="text-decoration:underline;cursor:pointer;color:blue;">' + 'Reject' + '</label>';
+        }
