@@ -274,3 +274,5 @@ For the next sprint, we will aim to work on session ids, we are planning to work
 Done with midterm presentation and will work on implementing the menu, simultaneously working on My SQL migration as well.
 
 Successfully done with the 2nd midterm presentation,next we are aiming to work on menu.
+
+Worked on driver page nested grid functionality where driver can receive the ride request from rider through the hyper link, where he can accept or decline.
