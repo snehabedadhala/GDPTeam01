@@ -295,3 +295,5 @@ Looking forward to develop the menu which coordinates all the screens so far.
 As of now we have the web pages individually on the local host, now we want to put all in a flow and sequence by using menu modules. Working on it.
 
 We will work on session ids for the perfect validation of all the screens
+
+we will work on the final functionalities of teh rider and driver pages with perfect broadcasting the information.
