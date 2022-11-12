@@ -290,3 +290,6 @@ Done with presentation regarding the progress of the project. Made accept and re
 The accept and reject buttons are functional, the no.of seats available are increased/decreased with respect to the driver ride accept/reject, and the seat count is being updated in the field from time to time.
 
 Looking forward to develop the menu which coordinates all the screens so far.
+
+
+As of now we have the web pages individually on the local host, now we want to put all in a flow and sequence by using menu modules. Working on it.
