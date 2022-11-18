@@ -311,3 +311,8 @@ Shared the centralised database access to all the team members where each team m
 Started working on Menu implementation and accomplished the UI part and connections need to placed for the respective page tabs.
 
 The connection between local mysql workbench and Amazon Rds has been done, the changes in tables and store procedures are being reflected in the cloud.
+
+
+Worked on developing the dasboard for our application. The menu module consists of all the modules that we developed so far.
+
+Need to build connection between all the modules and make the dasboard fully functional. 
