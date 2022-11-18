@@ -307,3 +307,5 @@ Created Amazon RDS Account and configured MYSQL database.
 Made syntax changes to few tables in MYSQL.
 
 Shared the centralised database access to all the team members where each team member can perform their tasks independently. Helping team in designing the Menu master page.
+
+Started working on Menu implementation and accomplished the UI part and connections need to placed for the respective page tabs.
