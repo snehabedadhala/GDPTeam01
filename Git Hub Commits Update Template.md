@@ -297,3 +297,5 @@ As of now we have the web pages individually on the local host, now we want to p
 We will work on session ids for the perfect validation of all the screens
 
 we will work on the final functionalities of teh rider and driver pages with perfect broadcasting the information.
+
+worked on centralize database part and able to succesfully establish a connection between My SQL and Amazon RDS. However, database connection with project is pending. 
