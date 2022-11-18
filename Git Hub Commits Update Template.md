@@ -316,3 +316,6 @@ The connection between local mysql workbench and Amazon Rds has been done, the c
 Worked on developing the dasboard for our application. The menu module consists of all the modules that we developed so far.
 
 Need to build connection between all the modules and make the dasboard fully functional. 
+
+
+As of now created a dashboard for the web app which is the platform to navigate to rider and driver pages and all other functionalities through which information can be broadcasted between the rider and driver pages 
