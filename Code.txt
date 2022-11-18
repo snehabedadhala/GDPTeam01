@@ -76,3 +76,37 @@ Function for Reject Button
 function btnReject(cellvalue, options, rowObject) {
             return '<label id=' + options.rowId + ' onclick="return RejectRide(' + options.rowId + ');" style="text-decoration:underline;cursor:pointer;color:blue;">' + 'Reject' + '</label>';
         }
+
+ Below is the Store procedure in My SQL for Driver registration
+
+ DELIMITER $$
+CREATE DEFINER=`admin`@`%` PROCEDURE `SP_DriverRegistration`(      
+in Firstname VARCHAR(255),      
+in LastName VARCHAR(255),      
+in Gender VARCHAR(255),      
+in DOB VARCHAR(255),      
+in Mobile VARCHAR(255),      
+in Vehicleno VARCHAR(255),      
+in Address1 VARCHAR(255),      
+in Address2 VARCHAR(255),      
+in City VARCHAR(255),      
+in State VARCHAR(255),     
+in Zip VARCHAR(255),      
+in IDProof VARCHAR(255),      
+in Idno VARCHAR(255),     
+in Username VARCHAR(255),     
+in Password VARCHAR(255), 
+in SID nvarchar(255),
+out MSG VARCHAR(255)    
+)
+BEGIN   
+ 
+  INSERT INTO DriverRegistration(Firstname,LastName,Gender,DOB,Mobile,Vehicleno,Address1,Address2,City,State,Zip,IDProof,Idno,Username,Password,InsertedDatetime,SID)      
+  SELECT Firstname,LastName,Gender,DOB,Mobile,Vehicleno,Address1,Address2,City,State,Zip,IDProof,Idno,Username,Password,current_timestamp(),SID;     
+     
+     
+  set MSG = 'Driver Registered Successfully';   
+  
+END$$
+DELIMITER ;
+       
