@@ -303,3 +303,5 @@ worked on centralize database part and able to succesfully establish a connectio
 The menu Implementation has been done, and  left with connections part with respective pages like ride registration and scheduled rides as well as reports.
 
 Created Amazon RDS Account and configured MYSQL database.
+
+Made syntax changes to few tables in MYSQL. 
