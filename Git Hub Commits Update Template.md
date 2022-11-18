@@ -299,3 +299,5 @@ We will work on session ids for the perfect validation of all the screens
 we will work on the final functionalities of teh rider and driver pages with perfect broadcasting the information.
 
 worked on centralize database part and able to succesfully establish a connection between My SQL and Amazon RDS. However, database connection with project is pending. 
+
+The menu Implementation has been done, and  left with connections part with respective pages like ride registration and scheduled rides as well as reports.
