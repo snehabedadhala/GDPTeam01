@@ -304,4 +304,6 @@ The menu Implementation has been done, and  left with connections part with resp
 
 Created Amazon RDS Account and configured MYSQL database.
 
-Made syntax changes to few tables in MYSQL. 
+Made syntax changes to few tables in MYSQL.
+
+Shared the centralised database access to all the team members where each team member can perform their tasks independently. Helping team in designing the Menu master page.
