@@ -323,3 +323,5 @@ As of now created a dashboard for the web app which is the platform to navigate 
 Looking forward to make the Menu to be fully functional.
 
 Changing the complete database queries from MSSQL to MYSQL and able to connect the mysql with the amazon rds.
+
+Creating tables, writing procedures, scripts in mysql so that we are able to connect with amazon rds.
