@@ -321,3 +321,5 @@ Need to build connection between all the modules and make the dasboard fully fun
 As of now created a dashboard for the web app which is the platform to navigate to rider and driver pages and all other functionalities through which information can be broadcasted between the rider and driver pages 
 
 Looking forward to make the Menu to be fully functional.
+
+Changing the complete database queries from MSSQL to MYSQL and able to connect the mysql with the amazon rds.
