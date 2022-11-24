@@ -239,6 +239,11 @@ Code for Dasboard creation of our application
 </body>
 </html>
 
+Date: 11/24/2022
+
+Started writing validations for the fields following the below document. Reference document for adding validations to the model:
+
+https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-aspnet-mvc3/cs/adding-validation-to-the-model
 
 ********************
 ## Ram Reddy. Boppidi
