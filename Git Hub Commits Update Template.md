@@ -318,10 +318,12 @@ Worked on developing the dasboard for our application. The menu module consists 
 Need to build connection between all the modules and make the dasboard fully functional. 
 
 
-As of now created a dashboard for the web app which is the platform to navigate to rider and driver pages and all other functionalities through which information can be broadcasted between the rider and driver pages 
+As of now created a dashboard for the web app which is the platform to navigate to rider and driver pages and all other functionalities through which information can be broadcasted between the rider and driver pages
 
 Looking forward to make the Menu to be fully functional.
 
 Changing the complete database queries from MSSQL to MYSQL and able to connect the mysql with the amazon rds.
 
 Creating tables, writing procedures, scripts in mysql so that we are able to connect with amazon rds.
+
+Still working on the Menu dashboard functionality, will finish by the end of sprint13.
