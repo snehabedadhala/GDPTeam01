@@ -334,3 +334,5 @@ Working on the flow between all the individual modules and developing the dasboa
 Compeleted the main functionality of the project which is communication between rider and driver.
 
 Working on the validations on the models to store the user data.
+
+Chunks of tasks on  menu Implementation has been done, and  left with connections part with respective pages like ride registration and scheduled rides as well as reports. Modified syntax changes to few tables & store procedures in MYSQL.
