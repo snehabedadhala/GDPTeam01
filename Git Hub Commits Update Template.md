@@ -327,3 +327,10 @@ Changing the complete database queries from MSSQL to MYSQL and able to connect t
 Creating tables, writing procedures, scripts in mysql so that we are able to connect with amazon rds.
 
 Still working on the Menu dashboard functionality, will finish by the end of sprint13.
+
+
+Working on the flow between all the individual modules and developing the dasboard of our application.
+
+Compeleted the main functionality of the project which is communication between rider and driver.
+
+Working on the validations on the models to store the user data.
