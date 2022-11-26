@@ -348,3 +348,5 @@ The goal is to deploy the project on centralized database, as the MSSQL is not a
 Implementing the database in mysql, making changes to the tables as well as stored procedures. 
 
 researching on how to add all the screens into a menu.
+
+Implemented menu and added all the screens to it and need to test them.
