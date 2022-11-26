@@ -346,3 +346,5 @@ Finish all the screens, successfully change the complete database queries with M
 The goal is to deploy the project on centralized database, as the MSSQL is not able to connect with amazon rds, so changing the complete databse with MYSQl. 
 
 Implementing the database in mysql, making changes to the tables as well as stored procedures. 
+
+researching on how to add all the screens into a menu.
