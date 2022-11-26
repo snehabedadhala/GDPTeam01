@@ -293,3 +293,64 @@ BEGIN
 END$$
 DELIMITER ;
        
+
+Function to display Pop Up Grid:
+
+
+        function showPopupGrid(ViewID) {
+            ViewID = ViewID;
+            jQuery("#tblDetails1").GridUnload();
+            jQuery("#tblDetails1").jqGrid({
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: '<%=ResolveUrl("~/WebServices/Rides.asmx/GetRideDetails") %>',
+                datatype: "json",
+                height: '100%',
+                rowNum: 20,
+                width: '100%',
+                postData: {
+                    ViewID: ViewID,
+                },
+                cmTemplate: { sortable: false },
+                colNames: ['', 'Date', 'Time', 'Rider Name', 'Ride Start Address', 'Ride End Address', 'NO. of Seats', '', ''],
+                colModel: [
+                    { name: 'TxnId', index: 'TxnId', width: 100, align: 'center', hidden: true },
+                    { name: 'Ridedate', index: 'Ridedate', width: 100, align: 'center' },
+                    { name: 'RideTime', index: 'RideTime', width: 100, sorttype: "string" },
+                    { name: 'DriverName', index: 'DriverName', align: "center", width: 120, sorttype: "string" },
+                    { name: 'StartAddress', index: 'StartAddress', align: "center", width: 200, sorttype: "string" },
+                    { name: 'EndAddress', index: 'EndAddress', align: "center", width: 200, sorttype: "string" },
+                    { name: 'BookedSeats', index: 'BookedSeats', align: "center", width: 100, sorttype: "string" },
+                    { name: 'Act', index: 'Act', width: 90, align: 'center', formatter: btnAccept },
+                    { name: 'Act', index: 'Act', width: 90, align: 'center', formatter: btnReject },
+
+                ],
+                pager: "#pager1",
+                viewrecords: true,
+                rownumbers: true,
+                caption: "Booked Details",
+                altRows: true,
+                jsonReader: {
+                    root: function (obj) { return obj.rows },
+                    page: function (obj) { return obj.page },
+                    total: function (obj) { return obj.total },
+                    records: function (obj) { return obj.records },
+                    id: "",
+                    cell: "",
+                    repeatitems: false
+                },
+                gridComplete: function () {
+                    var ids = jQuery("#tblDetails1").jqGrid('getDataIDs');
+                    if (ids.length == 0) {
+                    }
+                    else {
+                        for (var i = 0; i < ids.length; i++) {
+                            var cl = ids[i];
+
+                        }
+                    }
+                }
+            });
+            return false;
+        }
+
