@@ -339,3 +339,6 @@ Chunks of tasks on  menu Implementation has been done, and  left with connection
 
 
 Developed a dashboard that provides the navigation to the complete app modules like rider and driver functionalities. Implementing the database in MySQL, creating tables and stored procedures.
+
+
+Finish all the screens, successfully change the complete database queries with MYSQL and connect with Amazon RDS. Planning for attractive UI and validations of screens if needed.
