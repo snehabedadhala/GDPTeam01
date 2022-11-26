@@ -350,3 +350,5 @@ Implementing the database in mysql, making changes to the tables as well as stor
 researching on how to add all the screens into a menu.
 
 Implemented menu and added all the screens to it and need to test them.
+
+Working on how to implement session id and make sure all the id's are saved.
