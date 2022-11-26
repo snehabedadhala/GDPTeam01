@@ -336,3 +336,6 @@ Compeleted the main functionality of the project which is communication between 
 Working on the validations on the models to store the user data.
 
 Chunks of tasks on  menu Implementation has been done, and  left with connections part with respective pages like ride registration and scheduled rides as well as reports. Modified syntax changes to few tables & store procedures in MYSQL.
+
+
+Developed a dashboard that provides the navigation to the complete app modules like rider and driver functionalities. Implementing the database in MySQL, creating tables and stored procedures.
