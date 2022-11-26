@@ -354,3 +354,5 @@ Implemented menu and added all the screens to it and need to test them.
 Working on how to implement session id and make sure all the id's are saved.
 
 Developed a dashboard that provides the navigation to the complete app modules like ride registration and scheduled rides and reports.
+
+Looking forward to develop a session id, to keep track how site visitors use their websites within a defined period of time. 
