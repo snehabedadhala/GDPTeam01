@@ -344,3 +344,5 @@ Developed a dashboard that provides the navigation to the complete app modules l
 Finish all the screens, successfully change the complete database queries with MYSQL and connect with Amazon RDS. Planning for attractive UI and validations of screens if needed.
 
 The goal is to deploy the project on centralized database, as the MSSQL is not able to connect with amazon rds, so changing the complete databse with MYSQl. 
+
+Implementing the database in mysql, making changes to the tables as well as stored procedures. 
