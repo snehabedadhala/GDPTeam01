@@ -358,3 +358,5 @@ Developed a dashboard that provides the navigation to the complete app modules l
 Looking forward to develop a session id, to keep track how site visitors use their websites within a defined period of time. 
 
 So far we have developed the project in ASP.Net 3 tier architecture. Due to some new enhancements and increase in performance, migrated it to ASP.Net core MVC.
+
+Doing research on MVC.net core and trying to migrate Asp.net to MVC.net core.
