@@ -356,3 +356,5 @@ Working on how to implement session id and make sure all the id's are saved.
 Developed a dashboard that provides the navigation to the complete app modules like ride registration and scheduled rides and reports.
 
 Looking forward to develop a session id, to keep track how site visitors use their websites within a defined period of time. 
+
+So far we have developed the project in ASP.Net 3 tier architecture. Due to some new enhancements and increase in performance, migrated it to ASP.Net core MVC.
