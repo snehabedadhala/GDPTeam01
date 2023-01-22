@@ -360,3 +360,5 @@ Looking forward to develop a session id, to keep track how site visitors use the
 So far we have developed the project in ASP.Net 3 tier architecture. Due to some new enhancements and increase in performance, migrated it to ASP.Net core MVC.
 
 Doing research on MVC.net core and trying to migrate Asp.net to MVC.net core.
+
+As a part of migration from ASP.net 3 tier architecture to MVC .net core, started dveloping object files in models part which represents the business logics.
