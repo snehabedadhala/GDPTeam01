@@ -366,3 +366,11 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  Migrated our project from asp.net to mvc.net core, which results in better performance.
 
  Still working on migration part and started doing field validations for all the screens.
+
+ Migrated entire ASP.NET project to MVC .NET Core using the reference document:
+ [Reference](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/adding-a-view)
+
+ Advantages of migration:
+
+ 1. For better performance
+ 2. Integration with maps would be more easy in .NET Core
