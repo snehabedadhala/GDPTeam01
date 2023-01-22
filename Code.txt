@@ -245,6 +245,18 @@ Started writing validations for the fields following the below document. Referen
 
 https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-aspnet-mvc3/cs/adding-validation-to-the-model
 
+Date 01/22/2023
+
+Modified with correct heading to the html rider page.
+<table class="table">
+    <tr>
+        <td class="tdheading" align="left">
+            Rider Register
+        </td>
+    </tr>
+
+
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
