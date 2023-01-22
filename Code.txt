@@ -366,3 +366,14 @@ Function to display Pop Up Grid:
             return false;
         }
 
+
+
+Validation code for Login:
+
+public class LoginModel
+    {
+        [Required(ErrorMessage ="Please enter UserName")]
+        public string UserName { get; set; }
+        [Required(ErrorMessage = "Please enter Password")]
+        public string Password { get; set; }
+    }
