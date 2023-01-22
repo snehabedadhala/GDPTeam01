@@ -377,3 +377,19 @@ public class LoginModel
         [Required(ErrorMessage = "Please enter Password")]
         public string Password { get; set; }
     }
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "ConnectionStrings": {
+    //"MDConnection": "data source=HDC3-L-151CJWV\\SQLEXPRESS;Initial Catalog=BearcatCommute;Integrated Security=True;"
+    "MDConnection": "data source=NW47405\\S546831;Initial Catalog=BearcatCommute;Integrated Security=True;"
+  },
+  "AllowedHosts": "*"
+}
+
