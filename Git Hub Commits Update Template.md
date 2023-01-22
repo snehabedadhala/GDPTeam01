@@ -362,3 +362,5 @@ So far we have developed the project in ASP.Net 3 tier architecture. Due to some
 Doing research on MVC.net core and trying to migrate Asp.net to MVC.net core.
 
 As a part of migration from ASP.net 3 tier architecture to MVC .net core, started dveloping object files in models part which represents the business logics.
+
+ Migrated our project from asp.net to mvc.net core, which results in better performance.
