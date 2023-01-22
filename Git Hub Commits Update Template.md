@@ -374,3 +374,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
 
  1. For better performance
  2. Integration with maps would be more easy in .NET Core
+
+ Installed new version of MVC.net core and making the changes to the existing project(Migrating to MVC.net core)
