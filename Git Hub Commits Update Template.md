@@ -382,3 +382,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  Developing the web application pages login, driver and rider pages with functionalities in MVC .net core. 
 
  Looking forward to come up with more screens which adds more functionalities to our application and also user friendly.
+
+ on the way to implement the features like logout of rider/ driver page redirect to home screen and adding email address to rider and driver page.
