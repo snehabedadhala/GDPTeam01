@@ -380,3 +380,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  Working on  controllers part in mvc.net core to match with the existing development in asp.net in which we used 3-layer architecture.
 
  Developing the web application pages login, driver and rider pages with functionalities in MVC .net core. 
+
+ Looking forward to come up with more screens which adds more functionalities to our application and also user friendly.
