@@ -384,3 +384,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  Looking forward to come up with more screens which adds more functionalities to our application and also user friendly.
 
  on the way to implement the features like logout of rider/ driver page redirect to home screen and adding email address to rider and driver page.
+
+ Completed the application testing in new version(All the components are working as per the flow)
