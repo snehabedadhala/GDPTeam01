@@ -386,3 +386,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  on the way to implement the features like logout of rider/ driver page redirect to home screen and adding email address to rider and driver page.
 
  Completed the application testing in new version(All the components are working as per the flow)
+
+ Working on implementing password reset for both driver and rider where a OTP will be sent to email.
