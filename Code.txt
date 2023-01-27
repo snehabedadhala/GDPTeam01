@@ -270,6 +270,32 @@ Date 01/27/2023
             }
             return OTP;
         }
+ Sending email implementation
+
+  public static void SendEmail(MailRequest mailRequest)
+        {
+            try
+            {
+                //yuydvagtngyotocj
+                var email = new MimeMessage();
+                email.From.Add(MailboxAddress.Parse(FromEmailAddress));
+                email.To.Add(MailboxAddress.Parse(mailRequest.ToEmail));
+                email.Subject = mailRequest.Subject; 
+                email.Body = new TextPart(TextFormat.Html) { Text = mailRequest.Body };
+
+                // send email
+                using var smtp = new SmtpClient();
+                smtp.Connect(smtpHost, port, SecureSocketOptions.StartTls);
+                smtp.Authenticate(FromEmailAddress, FromAppPwd);
+                smtp.Send(email);
+                smtp.Disconnect(true);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+        }
 
 ********************
 ## Ram Reddy. Boppidi
