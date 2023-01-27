@@ -433,3 +433,12 @@ public class LoginModel
   "AllowedHosts": "*"
 }
 
+<div class="input-group">
+            @Html.TextBoxFor(m => m.NewPassword)
+            @Html.LabelFor(m => m.NewPassword)
+        </div>
+        <div class="input-group">
+            @Html.PasswordFor(m => m.ConfirmPassword)
+            @Html.LabelFor(m => m.ConfirmPassword)
+        </div>
+
