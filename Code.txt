@@ -255,7 +255,21 @@ Modified with correct heading to the html rider page.
         </td>
     </tr>
 
+Date 01/27/2023
 
+ public static string GenerateOTP()
+        {
+            int OTPLength = 6;
+            string[] saAllowedCharacters = { "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" };
+            string OTP = string.Empty;
+
+            Random rand = new Random();
+            for (int i = 0; i < OTPLength; i++)
+            {
+                OTP += saAllowedCharacters[rand.Next(0, 9)];
+            }
+            return OTP;
+        }
 
 ********************
 ## Ram Reddy. Boppidi
