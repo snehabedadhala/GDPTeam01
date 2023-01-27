@@ -390,3 +390,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  Working on implementing password reset for both driver and rider where a OTP will be sent to email.
 
  Looking to implement email notiications for driver when rider accepts/rejects the ride.
+
+ Working on validations, Implementing new screen for password reset.
