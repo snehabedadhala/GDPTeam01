@@ -442,3 +442,16 @@ public class LoginModel
             @Html.LabelFor(m => m.ConfirmPassword)
         </div>
 
+
+Code for OTP Model:
+
+        public string UserId { get; set; }
+        public string generatedOTP { get; set; }
+
+    public class ExtendedOTPModel
+    {
+        [Required(ErrorMessage = "Please enter OTP")]
+        public string OTP { get; set; }
+    }
+
+
