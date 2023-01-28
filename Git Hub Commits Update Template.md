@@ -400,3 +400,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  Working on password reset functonality where, user will get  OTP sent to the associated email while creating the rider/driver account.
 
  Peering with team, developing an feature where driver navigate to Rider address.(Maps Integartion)
+
+ Working on email notification confirmtion, where driver as well as rider needs to be notified through email when rider books the ride.
