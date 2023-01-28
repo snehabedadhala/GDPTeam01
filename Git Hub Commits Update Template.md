@@ -398,3 +398,5 @@ As a part of migration from ASP.net 3 tier architecture to MVC .net core, starte
  Working with driver page functionality, email notification has to be sent, once driver accepts/rejects the ride.
 
  Working on password reset functonality where, user will get  OTP sent to the associated email while creating the rider/driver account.
+
+ Peering with team, developing an feature where driver navigate to Rider address.(Maps Integartion)
