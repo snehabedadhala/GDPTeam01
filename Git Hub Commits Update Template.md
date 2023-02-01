@@ -405,3 +405,4 @@ Working on email notification confirmtion, where driver as well as rider needs t
 
 working on the validations part for password reset screen.
 
+In Book ride page, future rides with available seats greater than 0 will be shown.
