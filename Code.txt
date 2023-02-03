@@ -297,6 +297,24 @@ Date 01/27/2023
 
         }
 
+
+  public IActionResult Index(ExtendedOTPModel otpModel)
+        {
+            if(ModelState.IsValid)
+            {
+                var baseModel = JsonConvert.DeserializeObject<OTPModel>(TempData["otpModel"].ToString());
+                if (baseModel.generatedOTP==otpModel.OTP)
+                {
+                    TempData["UserId"] = baseModel.UserId;
+                    return RedirectToAction("UpdatePassword");
+                }
+                else
+                {
+                    ModelState.AddModelError("OTP", "OTP is invalid");
+                }
+            }
+            
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
