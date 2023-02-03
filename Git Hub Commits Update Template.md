@@ -412,3 +412,5 @@ Added a new text feild in Rider, Driver registration pages to capture email addr
 Tested the email authentication functionality which we developed in mutiple screens. 
 
 Email notification for ride reject/accept for driver has been completed.
+
+I’m able to complete the password reset email notification functionality for the rider and driver account.The email contification contains OTP.
