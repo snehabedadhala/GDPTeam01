@@ -414,3 +414,5 @@ Tested the email authentication functionality which we developed in mutiple scre
 Email notification for ride reject/accept for driver has been completed.
 
 I’m able to complete the password reset email notification functionality for the rider and driver account.The email contification contains OTP.
+
+As a part of google maps integration with ride address locations, researched the google maps API. As a part of progress, I have generated the key for an API. Research is going on to show improvements in functionalities.
