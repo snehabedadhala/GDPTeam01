@@ -519,6 +519,19 @@ email.Body = new TextPart(TextFormat.Html) { Text = mailRequest.Body };
 
 
 
+public static class OTPHelper
+    {
+        public static string SendOTP(string EmailAddress)
+        {
+            string OTP = GenerateOTP();
+            MailRequest mailRequest = new MailRequest();
+            mailRequest.ToEmail = EmailAddress;
+            mailRequest.Subject = "Verification code for Password Change";
+            mailRequest.Body = "<p>Hi,</p><br/><p>Please use below verification code for changing password</p>" +
+                "<br/><h3>" + OTP + "</h3><br/><p>Thanks,</p><br/><p>Bearcats Commute</p>";
+            EmailHelper.SendEmail(mailRequest);
+            return OTP;
+        }
 
 
 
