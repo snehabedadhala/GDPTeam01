@@ -499,3 +499,25 @@ public static string GenerateOTP()
                 OTP += saAllowedCharacters[rand.Next(0, 9)];
             }
             return OTP;
+
+private static string FromEmailAddress = "Bearcats.Commute@gmail.com";
+private static string FromAppPwd = "yuydvagtngyotocj";
+private static string smtpHost = "smtp.gmail.com";
+private static int port = 587;   
+
+//Assigning details
+var email = new MimeMessage();
+email.From.Add(MailboxAddress.Parse(FromEmailAddress));
+email.To.Add(MailboxAddress.Parse(mailRequest.ToEmail));
+email.Subject = mailRequest.Subject; 
+email.Body = new TextPart(TextFormat.Html) { Text = mailRequest.Body };
+
+
+
+
+
+
+
+
+
+        
