@@ -326,7 +326,11 @@ Date 01/27/2023
             EmailHelper.SendEmail(mailRequest);
             return OTP;
         }
-        
+
+Research on google map integration:
+
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
