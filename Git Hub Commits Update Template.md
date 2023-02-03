@@ -410,3 +410,5 @@ In Book ride page, future rides with available seats greater than 0 will be show
 Added a new text feild in Rider, Driver registration pages to capture email address
 
 Tested the email authentication functionality which we developed in mutiple screens. 
+
+Email notification for ride reject/accept for driver has been completed.
