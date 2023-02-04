@@ -418,3 +418,5 @@ I’m able to complete the password reset email notification functionality for t
 As a part of google maps integration with ride address locations, researched the google maps API. As a part of progress, I have generated the key for an API. Research is going on to show improvements in functionalities.
 
 Rider will be notified through the email about the final status of the ride i.e requested ride is approved or rejected by the driver.
+
+The API key generation has been done, will have to integrate the google maps with the web application
