@@ -534,6 +534,21 @@ public static class OTPHelper
         }
 
 
+ public class OTPModel
+    {
+        public string UserId { get; set; }
+        public string generatedOTP { get; set; }
+    }
+
+    public class ExtendedOTPModel
+    {
+        [Required(ErrorMessage = "Please enter OTP")]
+        public string OTP { get; set; }
+    }
+}
+
+
+
 
 
 
