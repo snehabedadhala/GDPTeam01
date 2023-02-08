@@ -419,4 +419,6 @@ As a part of google maps integration with ride address locations, researched the
 
 Rider will be notified through the email about the final status of the ride i.e requested ride is approved or rejected by the driver.
 
-The API key generation has been done, will have to integrate the google maps with the web application
+The API key generation has been done, will have to integrate the google maps with the web application.
+
+Idle timeout for the application has been set. If there is any inactivity for 10 minutes will log out automatically.
