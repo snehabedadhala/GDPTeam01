@@ -331,6 +331,22 @@ Research on google map integration:
 
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
+02/09/2023
+
+  try
+                        {
+                            OTPModel otpModel = new OTPModel();
+                            otpModel.UserId= userSet.Tables[0].Rows[0][3].ToString();
+                            otpModel.generatedOTP = OTPHelper.SendOTP(emailAddress);
+                            TempData["otpModel"] = JsonConvert.SerializeObject(otpModel);
+                            TempData["OTPExpiryTime"] = DateTime.Now.AddMinutes(3);
+                            return RedirectToAction("Index", "ForgotPwd");
+                        }
+                        catch(Exception ex)
+                        {
+                            ModelState.AddModelError("UserName", "An error occured while sending OTP");
+                        }                          
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
