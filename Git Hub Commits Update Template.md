@@ -426,3 +426,5 @@ Idle timeout for the application has been set. If there is any inactivity for 10
 This week as a team and myself worked on creating the session time out for all the screens of the web application. We setted an idletimeout of 10 minutes, this enhances the security of our web application.
 
 In this week, started working on the google maps, we craeted an API key and after that created the POC ( proof of concept) and created the initial information window where web application connected to google maps to the current location.
+
+worked on setting up the session timeout for OTP, which is limited to 3 minutes.
