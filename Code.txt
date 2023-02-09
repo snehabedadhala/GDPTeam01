@@ -346,7 +346,16 @@ https://developers.google.com/maps/documentation/javascript/get-api-key
                         {
                             ModelState.AddModelError("UserName", "An error occured while sending OTP");
                         }                          
+Configure session time out for application
 
+  public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(10);
+            });
+            services.AddControllersWithViews();
+        }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
