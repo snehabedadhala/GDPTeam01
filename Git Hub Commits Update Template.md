@@ -424,3 +424,5 @@ The API key generation has been done, will have to integrate the google maps wit
 Idle timeout for the application has been set. If there is any inactivity for 10 minutes will log out automatically.
 
 This week as a team and myself worked on creating the session time out for all the screens of the web application. We setted an idletimeout of 10 minutes, this enhances the security of our web application.
+
+In this week, started working on the google maps, we craeted an API key and after that created the POC ( proof of concept) and created the initial information window where web application connected to google maps to the current location.
