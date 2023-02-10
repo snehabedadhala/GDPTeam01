@@ -356,6 +356,17 @@ Configure session time out for application
             });
             services.AddControllersWithViews();
         }
+Sending email for book ride
+ mailRequest.Body = body.ToString();
+            try
+            {
+                EmailHelper.SendEmail(mailRequest);
+            }
+            catch(Exception ex)
+            {
+                msg = msg + "But an error occured while sending email";
+            }
+            
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
