@@ -428,3 +428,5 @@ This week as a team and myself worked on creating the session time out for all t
 In this week, started working on the google maps, we craeted an API key and after that created the POC ( proof of concept) and created the initial information window where web application connected to google maps to the current location.
 
 worked on setting up the session timeout for OTP, which is limited to 3 minutes.
+
+As a team we worked on session timeout for accessing the website, we assigned the outage time of 10 min for access. After that if we try to access it then directly says "unauthorized access"
