@@ -596,6 +596,27 @@ Js code for google maps markers:
         geocodeLatLng(geocoder, map, infoWindow, mapsMouseEvent.latLng.toJSON().lat, mapsMouseEvent.latLng.toJSON().lng);
     });
 
+Code for OTP expiration after 3 AddMinutes
+
+if (role.ToUpper() == "D")
+                    {
+                        HttpContext.Session.SetString("ForgotPwdUserRole", role);
+                        string emailAddress= userSet.Tables[0].Rows[0][1].ToString();
+                        try
+                        {
+                            OTPModel otpModel = new OTPModel();
+                            otpModel.UserId= userSet.Tables[0].Rows[0][3].ToString();
+                            otpModel.generatedOTP = OTPHelper.SendOTP(emailAddress);
+                            TempData["otpModel"] = JsonConvert.SerializeObject(otpModel);
+                            TempData["OTPExpiryTime"] = DateTime.Now.AddMinutes(3);
+                            return RedirectToAction("Index", "ForgotPwd");
+                        }
+                        catch(Exception ex)
+                        {
+                            ModelState.AddModelError("UserName", "An error occured while sending OTP");
+                        }                        
+                    
+
 
 
 
