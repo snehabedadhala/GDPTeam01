@@ -436,3 +436,5 @@ Made changes in stored procedure to sent email to end user(with meaning full det
 worked with session timeout which includes (application session time out, otp time out)
 
 Doing research on maps and trying to implement it in our application.
+
+Worked on password otp expiration which has been limited to 3 minutes for accessing as well as changing the password.
