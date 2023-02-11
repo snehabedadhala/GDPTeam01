@@ -438,3 +438,5 @@ worked with session timeout which includes (application session time out, otp ti
 Doing research on maps and trying to implement it in our application.
 
 Worked on password otp expiration which has been limited to 3 minutes for accessing as well as changing the password.
+
+We will soon develop the full working maps in our web application. So far created a basic window of maps where we get the specific locations when pointed.
