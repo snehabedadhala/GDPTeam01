@@ -434,3 +434,5 @@ As a team we worked on session timeout for accessing the website, we assigned th
 Made changes in stored procedure to sent email to end user(with meaning full details)
 
 worked with session timeout which includes (application session time out, otp time out)
+
+Doing research on maps and trying to implement it in our application.
