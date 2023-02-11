@@ -430,3 +430,5 @@ In this week, started working on the google maps, we craeted an API key and afte
 worked on setting up the session timeout for OTP, which is limited to 3 minutes.
 
 As a team we worked on session timeout for accessing the website, we assigned the outage time of 10 min for access. After that if we try to access it then directly says "unauthorized access"
+
+Made changes in stored procedure to sent email to end user(with meaning full details)
