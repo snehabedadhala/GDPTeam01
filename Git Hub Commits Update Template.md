@@ -442,3 +442,5 @@ Worked on password otp expiration which has been limited to 3 minutes for access
 We will soon develop the full working maps in our web application. So far created a basic window of maps where we get the specific locations when pointed.
 
 Added maps in ride registration page. Changed layout for ride registration page to sync with maps.
+
+Currently scheduled rides is showing data of all drivers. changed it to show data for that user only. Moreover, dashboard data will show real data(Total rides, upcoming rides) and they will navigate to these 2 pages(scheduled rides and total rides) on clicking more info.
