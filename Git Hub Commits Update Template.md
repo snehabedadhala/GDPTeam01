@@ -446,3 +446,5 @@ Added maps in ride registration page. Changed layout for ride registration page 
 Currently scheduled rides is showing data of all drivers. changed it to show data for that user only. Moreover, dashboard data will show real data(Total rides, upcoming rides) and they will navigate to these 2 pages(scheduled rides and total rides) on clicking more info.
 
 So far worked on responsive UI for home page, will have to implement the same  remaining pages too.
+
+Developed google maps on the rides registration tab on the driver page. When we click on the start address, and address, it will redirect to google maps where you can select address and submit. That address will pop up in start, or end address fields respectively.
