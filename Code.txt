@@ -429,6 +429,16 @@ Add total rides page.
         });
         return false;
     }
+
+Added style to Unauthorized page
+
+    <body class="UnauthorizedBg">
+    <h1 style="color:red;font-weight:bold;">Sorry!</h1>
+    <h3>You are not authorized to access this page.</h3>
+    <a href="/LoginDriver/Index" class="forgot-pw">Login</a>
+</body>
+
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
