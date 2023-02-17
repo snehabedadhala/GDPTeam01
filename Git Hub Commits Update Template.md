@@ -444,3 +444,5 @@ We will soon develop the full working maps in our web application. So far create
 Added maps in ride registration page. Changed layout for ride registration page to sync with maps.
 
 Currently scheduled rides is showing data of all drivers. changed it to show data for that user only. Moreover, dashboard data will show real data(Total rides, upcoming rides) and they will navigate to these 2 pages(scheduled rides and total rides) on clicking more info.
+
+So far worked on responsive UI for home page, will have to implement the same  remaining pages too.
