@@ -678,7 +678,27 @@ if (role.ToUpper() == "D")
                             ModelState.AddModelError("UserName", "An error occured while sending OTP");
                         }                        
                     
+Functions for Start and End addresses:
 
+function selectStartAddress() {
+    document.getElementById("mapDiv").style.display = "block";
+    if (map == null)
+    {
+        initMap(40.35079983422656, -94.88447694817584, 'map');
+    }
+    AddControls(true);
+    return false;
+}
+
+function selectEndAddress() {
+    document.getElementById("mapDiv").style.display = "block";
+    if (map == null)
+    {
+        initMap(40.35079983422656, -94.88447694817584, 'map');
+    }
+    AddControls(false);
+    return false;
+}
 
 
 
