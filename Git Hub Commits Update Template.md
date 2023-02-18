@@ -456,3 +456,5 @@ Made UI level changes in front end screens and need to test the same.
 Working on maps implementation in Rider functionality and once it is done then need to make database level changes.
 
 Researching on responsive UI screens with CSS media queries and flexible grid systems such as Bootstrap. 
+
+Developed the total rides page, where it shows all the given rides in the single screen and made sure that upcoming rides should only be appeared in scheduled rides.
