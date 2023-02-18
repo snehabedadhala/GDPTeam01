@@ -452,3 +452,5 @@ Developed google maps on the rides registration tab on the driver page. When we 
 Added few columns in tables, changed stored procedure for implementing maps in driver functionality.
 
 Made UI level changes in front end screens and need to test the same.
+
+Working on maps implementation in Rider functionality and once it is done then need to make database level changes.
