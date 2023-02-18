@@ -454,3 +454,5 @@ Added few columns in tables, changed stored procedure for implementing maps in d
 Made UI level changes in front end screens and need to test the same.
 
 Working on maps implementation in Rider functionality and once it is done then need to make database level changes.
+
+Researching on responsive UI screens with CSS media queries and flexible grid systems such as Bootstrap. 
