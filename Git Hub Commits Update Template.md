@@ -450,3 +450,5 @@ So far worked on responsive UI for home page, will have to implement the same  r
 Developed google maps on the rides registration tab on the driver page. When we click on the start address, and address, it will redirect to google maps where you can select address and submit. That address will pop up in start, or end address fields respectively.
 
 Added few columns in tables, changed stored procedure for implementing maps in driver functionality.
+
+Made UI level changes in front end screens and need to test the same.
