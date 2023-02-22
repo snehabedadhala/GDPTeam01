@@ -460,3 +460,4 @@ Researching on responsive UI screens with CSS media queries and flexible grid sy
 Developed the total rides page, where it shows all the given rides in the single screen and made sure that upcoming rides should only be appeared in scheduled rides.
 
 We will have to develop the maps for rider page and also need to work on responsive UI for all the pages.
+
