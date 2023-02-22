@@ -461,3 +461,6 @@ Developed the total rides page, where it shows all the given rides in the single
 
 We will have to develop the maps for rider page and also need to work on responsive UI for all the pages.
 
+ Still working on maps for Rider page, where markers need to be placed.
+
+ 
