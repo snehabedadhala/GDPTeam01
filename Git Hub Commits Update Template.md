@@ -463,4 +463,4 @@ We will have to develop the maps for rider page and also need to work on respons
 
  Still working on maps for Rider page, where markers need to be placed.
 
- 
+Changed styles and made UI responsive for login and registration screens for both driver and register.
