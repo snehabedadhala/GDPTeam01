@@ -468,6 +468,38 @@ Add start/end dates in Reports page to show all rides.
         showTotalRides(null,null);
     });
 
+Add Style to Login Driver page
+
+<div class="container BackGroundImg h-100 w-100" style="max-width:100%">
+    <br /><br /><br />
+    <div class="card row col-4 justify-content-left ml-1">
+        <div class="card-body" style="padding:0%;">
+            @using (Html.BeginForm("Index", "LoginDriver", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                <div class="text-center">
+                    <img class="LoginImg" src="~/css/Images/avatar.png" alt="">
+                    <h4 class="mt-1 mb-1 pb-1">Login</h4>
+                </div>
+                <div class="row mb-1">
+                    @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-outline mb-1">
+                    @Html.TextBoxFor(m => m.UserName, new { @class = "form-control form-control-sm" })
+                    @Html.LabelFor(m => m.UserName, new { @class = "form-label" })
+                </div>
+                <div class="form-outline mb-1">
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control form-control-sm" })
+                    @Html.LabelFor(m => m.Password, new { @class = "form-label" })
+                </div>
+
+                <div class="text-center pt-1 mb-1 pb-1">
+                    <button type="submit" class="btn btn-primary btn-block mb-1">Login</button>
+                    <a href="/LoginDriver/ForgotPwd">Forgot password?</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
