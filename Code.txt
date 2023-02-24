@@ -500,6 +500,24 @@ Add Style to Login Driver page
         </div>
     </div>
 </div>
+
+Add Style to Login Rider Page
+<style>
+    .BackGroundImg {
+        background-image: url("/css/Images/RiderBg.png");
+    }
+
+    .LoginImg {
+        width: 30%;
+        background: rgba(255,255,255, 0.8);
+        border-radius: 50%;
+    }
+
+    .text-danger,
+    a {
+        font-size: small;
+    }
+</style>
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
