@@ -832,5 +832,36 @@ Responsive UI for the home Screen
 </html>
 
 
+Function to initialize and set the map:
+
+function initMap(latitude, longitude, elementId) {
+    geocoder = new google.maps.Geocoder();
+    finalPosition = new google.maps.LatLng(parseFloat(latitude), parseFloat(longitude));
+    map = new google.maps.Map(document.getElementById(elementId), {
+        center: finalPosition,
+        zoom: 15,
+        minZoom: 15,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    var marker = new google.maps.Marker({
+        position: finalPosition,
+        animation: google.maps.Animation.DROP,
+    });
+    marker.setMap(map);
+
+    // Configure the click listener.
+    map.addListener("click", (mapsMouseEvent) => {
+        finalPosition = mapsMouseEvent.latLng;
+        //Clear Marker and creating new marker
+        marker.setMap(null);
+        marker = new google.maps.Marker({
+            position: finalPosition,
+            animation: google.maps.Animation.DROP,
+        });
+        marker.setMap(map);
+    });
+}
+
 
         
