@@ -466,3 +466,5 @@ Still working on maps for Rider page, where markers need to be placed.
 Changed styles and made UI responsive for login and registration screens for both driver and register.
 
 Developed a reports page in the driver account, where he can monitor the total rides given so far.
+
+Merged the total rides page to a new page as "Reports" page with the start and end date as a filter to search for the ride history of the driver.
