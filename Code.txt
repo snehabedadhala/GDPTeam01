@@ -438,6 +438,35 @@ Added style to Unauthorized page
     <a href="/LoginDriver/Index" class="forgot-pw">Login</a>
 </body>
 
+Add start/end dates in Reports page to show all rides.
+
+<script language="javascript" type="text/javascript">
+    var TxnId;
+    $(function () {
+        TxnId = "";
+        $('#StartDate').datepicker({
+            changeMonth: true,
+            changeYear: true,
+            showOtherMonths: true,
+            selectOtherMonths: true,
+            dateFormat: 'M dd yy',
+            yearRange: "-99:+0"
+        });
+        $('#EndDate').datepicker({
+            changeMonth: true,
+            changeYear: true,
+            showOtherMonths: true,
+            selectOtherMonths: true,
+            dateFormat: 'M dd yy',
+            yearRange: "-99:+0"
+        });
+        $("#divclose").click(function () {
+            $("#divstageapp").fadeOut(900);
+        });
+        $("#divstageapp").hide();
+
+        showTotalRides(null,null);
+    });
 
 ********************
 ## Ram Reddy. Boppidi
