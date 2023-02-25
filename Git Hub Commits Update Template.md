@@ -468,3 +468,5 @@ Changed styles and made UI responsive for login and registration screens for bot
 Developed a reports page in the driver account, where he can monitor the total rides given so far.
 
 Merged the total rides page to a new page as "Reports" page with the start and end date as a filter to search for the ride history of the driver.
+
+Working on the developing the maps for the rider page and responsive UI for the rest of the pages of the application. We are in middle of progress.
