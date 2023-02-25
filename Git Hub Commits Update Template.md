@@ -478,3 +478,5 @@ Working on UI design in Rider page where adding new fields to develop maps funct
 Developing new stored procedure to get the details which will map to from ent in rider page.
 
 Making Changes to existing stored procedures based on the new functionality.
+
+Need to develop a new screen 'profile' for driver, where it contains the bio details of a driver.
