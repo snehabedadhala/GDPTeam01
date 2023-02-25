@@ -476,3 +476,5 @@ Worked on responsive UI for the Home page as well as both rider & driver registr
 Working on UI design in Rider page where adding new fields to develop maps functionality.
 
 Developing new stored procedure to get the details which will map to from ent in rider page.
+
+Making Changes to existing stored procedures based on the new functionality.
