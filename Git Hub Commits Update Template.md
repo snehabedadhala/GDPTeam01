@@ -474,3 +474,5 @@ Working on the developing the maps for the rider page and responsive UI for the 
 Worked on responsive UI for the Home page as well as both rider & driver registration pages and  including login page. 
 
 Working on UI design in Rider page where adding new fields to develop maps functionality.
+
+Developing new stored procedure to get the details which will map to from ent in rider page.
