@@ -472,3 +472,5 @@ Merged the total rides page to a new page as "Reports" page with the start and e
 Working on the developing the maps for the rider page and responsive UI for the rest of the pages of the application. We are in middle of progress.
 
 Worked on responsive UI for the Home page as well as both rider & driver registration pages and  including login page. 
+
+Working on UI design in Rider page where adding new fields to develop maps functionality.
