@@ -518,6 +518,33 @@ Add Style to Login Rider Page
         font-size: small;
     }
 </style>
+
+Add style to driver Dashboard Page
+
+@section CSS {
+    <style>
+        .bg-green {
+            color: #fff !important;
+            background-color: #28a745 !important;
+            font-size: 0.7rem;
+        }
+
+        .bg-yellow {
+            color: #1f2d3d !important;
+            background-color: #ffc107 !important;
+            font-size: 0.7rem;
+        }
+
+        .card-footer {
+            background-color: rgba(0,0,0,.1);
+        }
+
+        .small-box-footer {
+            display: block;
+            text-align: center;
+            color: white;
+        }
+    </style>
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
