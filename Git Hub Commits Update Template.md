@@ -480,3 +480,5 @@ Developing new stored procedure to get the details which will map to from ent in
 Making Changes to existing stored procedures based on the new functionality.
 
 Need to develop a new screen 'profile' for driver, where it contains the bio details of a driver.
+
+on clicking view ride to accept or reject ride, it will show rider's start and end address instead of driver's.
