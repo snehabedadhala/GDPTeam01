@@ -545,6 +545,68 @@ Add style to driver Dashboard Page
             color: white;
         }
     </style>
+
+Develop Profile Page for Driver with the below fields:
+
+<table class="table">
+    <tr>
+        <td>
+            <div>
+                @using (Html.BeginForm("ViewProfile", "DriverPage", FormMethod.Post, new { enctype = "multipart/form-data", onsubmit = "this.querySelectorAll('input').forEach(i => i.disabled = false)" }))
+                {
+                    <div class="row">
+                        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Firstname, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Firstname, new { @class = "form-control form-control-sm", @readonly = "readonly", @disabled = "disabled" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.LastName, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.LastName, new { @class = "form-control form-control-sm", @readonly = "readonly", @disabled = "disabled" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Username, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Username, new { @class = "form-control form-control-sm", @readonly = "readonly", @disabled = "disabled" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Mobile, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Mobile, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Vehicleno, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Vehicleno, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Address1, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Address1, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Address2, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Address2, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.City, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.City, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.State, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.State, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Zip, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Zip, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.EmailAddress, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.EmailAddress, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2 mt-1"><button type="submit" class="btn btn-primary btn-block">Update</button></div>
+                        <div class="col-md-2 mt-1"><button type="button" class="btn btn-danger btn-block" onclick='window.location = "@Url.Action("ViewProfile", "DriverPage")";'>Cancel</button></div>
+                    </div>
+                }
+            </div>
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
