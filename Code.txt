@@ -607,6 +607,31 @@ Develop Profile Page for Driver with the below fields:
                     </div>
                 }
             </div>
+
+Develop Unauthorized page for Driver Login
+
+@{
+    ViewData["Title"] = "Unauthorized";
+}
+<style>
+    .BackGroundImg {
+        background-image: url("/css/Images/Unauthorized.jpg");
+        padding-top: 5%;
+        padding-left: 35%;
+    }
+
+    a {
+        color: black;
+        font-style: italic;
+        text-decoration-line: underline;
+        font-weight: bold;
+    }
+</style>
+<div class="container BackGroundImg h-100 w-100" style="max-width:100%">
+    <h1 style="color:red;font-weight:bold;">Sorry!</h1>
+    <h3>You are not authorized to access this page.</h3>
+    <a href="/LoginDriver/Index" class="forgot-pw">Login</a>
+</div>
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
