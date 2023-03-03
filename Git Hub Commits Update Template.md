@@ -486,3 +486,6 @@ on clicking view ride to accept or reject ride, it will show rider's start and e
 profile page for driver is now editable and can update.
 
 Reports page is functional now, able to fetch the previous rides given data  using the filter start and end ride dates.
+
+
+Working on the responsive UI of the web pages of the application, as of now developed the responsive UI for the driver page after logging into account.
