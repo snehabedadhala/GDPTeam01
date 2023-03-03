@@ -489,3 +489,5 @@ Reports page is functional now, able to fetch the previous rides given data  usi
 
 
 Working on the responsive UI of the web pages of the application, as of now developed the responsive UI for the driver page after logging into account.
+
+Worked on the driver profile, added profile option by clicking on the driver name, it will redirect to a screen to update the profile details like first name, last name, user name, mobile number etc..
