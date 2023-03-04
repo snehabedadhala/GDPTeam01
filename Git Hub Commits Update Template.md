@@ -499,3 +499,5 @@ Adding new fields in UI level(Making changes in Driver page by adding new fields
 Making changes to the stored procedures in database based on requirement(Minor changes by changing the queries).
 
 Doing frontend testing on the new changes made by team(Testing the new screen, making sure flow works fine after changing the stored procedures).
+
+Maps integration for rider has been done, markers have been placed and the driver address will be displayed foe rider to select the address within the driver given range. 
