@@ -493,3 +493,5 @@ Working on the responsive UI of the web pages of the application, as of now deve
 Worked on the driver profile, added profile option by clicking on the driver name, it will redirect to a screen to update the profile details like first name, last name, user name, mobile number etc..
 
 Made our driver page responsive, which is user friendly, easily accessible and for better screen orientation.
+
+Adding new fields in UI level(Making changes in Driver page by adding new fields based on requirement)
