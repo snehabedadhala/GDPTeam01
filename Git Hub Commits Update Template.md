@@ -495,3 +495,5 @@ Worked on the driver profile, added profile option by clicking on the driver nam
 Made our driver page responsive, which is user friendly, easily accessible and for better screen orientation.
 
 Adding new fields in UI level(Making changes in Driver page by adding new fields based on requirement)
+
+Making changes to the stored procedures in database based on requirement(Minor changes by changing the queries).
