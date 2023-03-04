@@ -1059,5 +1059,119 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
+Code for view profile on driver page
+
+@{
+    Layout = "_DriverLayout";
+}
+@model Bearcats_Commute.Models.DriverProfileModel
+@section Scripts {
+    <script>
+        $(function () {
+            Array.from(document.getElementsByClassName("list-group-item-light active")).forEach(function (el) {
+                el.classList.remove('active');
+            });
+            document.getElementById('ViewProfile').classList.add('active');
+        });
+    </script>
+}
+@section CSS {
+    <style>
+        #popupModal {
+            position: absolute;
+            float: left;
+            left: 50%;
+            top: 10%;
+            transform: translate(-50%, -50%);
+        }
+
+        .btn,
+        .form-label,
+        .form-control-sm,
+        .text-danger {
+            font-size: x-small;
+        }
+    </style>
+}
+@if (ViewBag.Message != null)
+{
+    <div class="modal modal-sm show" id="popupModal" tabindex="-1" role="dialog" style="display: block; font-size: small;">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content" style="background-color: #1bbe5b">
+                <div class="modal-header" style="color:white;">
+                    <p class="modal-title">@ViewBag.Message</p>
+                    <button type="button" class="close" data-dismiss="modal" onclick='window.location = "@Url.Action("ViewProfile", "DriverPage")";'>
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<h3 class="mt-4" style="color:#e17009;">Driver Profile</h3>
+<table class="table">
+    <tr>
+        <td>
+            <div>
+                @using (Html.BeginForm("ViewProfile", "DriverPage", FormMethod.Post, new { enctype = "multipart/form-data", onsubmit = "this.querySelectorAll('input').forEach(i => i.disabled = false)" }))
+                {
+                    <div class="row">
+                        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Firstname, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Firstname, new { @class = "form-control form-control-sm", @readonly = "readonly", @disabled = "disabled" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.LastName, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.LastName, new { @class = "form-control form-control-sm", @readonly = "readonly", @disabled = "disabled" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Username, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Username, new { @class = "form-control form-control-sm", @readonly = "readonly", @disabled = "disabled" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Mobile, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Mobile, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Vehicleno, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Vehicleno, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Address1, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Address1, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Address2, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Address2, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.City, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.City, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.State, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.State, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.Zip, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.Zip, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2">@Html.LabelFor(m => m.EmailAddress, new { @class = "form-label" })<span style="color:red">*</span></div>
+                        <div class="col-md-2">@Html.TextBoxFor(m => m.EmailAddress, new { @class = "form-control form-control-sm" })</div>
+                    </div>
+                    <div class="row form-outline">
+                        <div class="col-md-2 mt-1"><button type="submit" class="btn btn-primary btn-block">Update</button></div>
+                        <div class="col-md-2 mt-1"><button type="button" class="btn btn-danger btn-block" onclick='window.location = "@Url.Action("ViewProfile", "DriverPage")";'>Cancel</button></div>
+                    </div>
+                }
+            </div>
+        </td>
+    </tr>
+</table>
+
 
         
