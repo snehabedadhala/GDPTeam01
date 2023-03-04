@@ -497,3 +497,5 @@ Made our driver page responsive, which is user friendly, easily accessible and f
 Adding new fields in UI level(Making changes in Driver page by adding new fields based on requirement)
 
 Making changes to the stored procedures in database based on requirement(Minor changes by changing the queries).
+
+Doing frontend testing on the new changes made by team(Testing the new screen, making sure flow works fine after changing the stored procedures).
