@@ -632,6 +632,21 @@ Develop Unauthorized page for Driver Login
     <h3>You are not authorized to access this page.</h3>
     <a href="/LoginDriver/Index" class="forgot-pw">Login</a>
 </div>
+
+
+Adding Date picker in reports page
+
+ .ui-datepicker,
+        .ui-datepicker table,
+        .ui-datepicker tr,
+        .ui-datepicker td,
+        .ui-datepicker th {
+            margin: 0;
+            padding: 0;
+            border: none;
+            border-spacing: 0;
+            font-size: x-small;
+        }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
