@@ -487,7 +487,6 @@ profile page for driver is now editable and can update.
 
 Reports page is functional now, able to fetch the previous rides given data  using the filter start and end ride dates.
 
-
 Working on the responsive UI of the web pages of the application, as of now developed the responsive UI for the driver page after logging into account.
 
 Worked on the driver profile, added profile option by clicking on the driver name, it will redirect to a screen to update the profile details like first name, last name, user name, mobile number etc..
@@ -501,3 +500,4 @@ Making changes to the stored procedures in database based on requirement(Minor c
 Doing frontend testing on the new changes made by team(Testing the new screen, making sure flow works fine after changing the stored procedures).
 
 Maps integration for rider has been done, markers have been placed and the driver address will be displayed foe rider to select the address within the driver given range. 
+
