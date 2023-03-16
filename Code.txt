@@ -1189,4 +1189,28 @@ Code for view profile on driver page
 </table>
 
 
+Code for Update profile on driver page:
+
+ public string UpdateDriverProfile(DriverProfileModel profileModel)
+        {
+            List<SqlParameter> parameters = new List<SqlParameter>();
+            parameters.Add(new SqlParameter("@Mobile", profileModel.Mobile));
+            parameters.Add(new SqlParameter("@Vehicleno", profileModel.Vehicleno));
+            parameters.Add(new SqlParameter("@Address1", profileModel.Address1));
+            parameters.Add(new SqlParameter("@Address2", profileModel.Address2));
+            parameters.Add(new SqlParameter("@City", profileModel.City));
+            parameters.Add(new SqlParameter("@State", profileModel.State));
+            parameters.Add(new SqlParameter("@Zip", profileModel.Zip));
+            parameters.Add(new SqlParameter("@Username", profileModel.Username));
+            parameters.Add(new SqlParameter("@EmailAddress", profileModel.EmailAddress));
+
+            SqlParameter outputParameter = new SqlParameter("@MSG", SqlDbType.VarChar, 200);
+            outputParameter.Direction = ParameterDirection.Output;
+            parameters.Add(outputParameter);
+
+
+            SqlHelper.ExecuteScalar(connectionString, "SP_UpdateDriverProfile", parameters);
+            return outputParameter.Value.ToString();
+        }
+    }
         
