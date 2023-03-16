@@ -504,3 +504,5 @@ Maps integration for rider has been done, markers have been placed and the drive
 In reports page, added drop down and a column to show ride status. 
 
 Developed view profile for rider on rider page, where rider can update or cancel one's personal information changes.
+
+Developed the responsive UI screen for the rider page. Also researching on various hosting platforms like smarterasp.net, azure and google cloud etc..
