@@ -502,3 +502,5 @@ Doing frontend testing on the new changes made by team(Testing the new screen, m
 Maps integration for rider has been done, markers have been placed and the driver address will be displayed foe rider to select the address within the driver given range. 
 
 In reports page, added drop down and a column to show ride status. 
+
+Developed view profile for rider on rider page, where rider can update or cancel one's personal information changes.
