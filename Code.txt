@@ -697,6 +697,18 @@ Develop script to display rides based on filter options
             });
             return false;
         }
+
+
+
+
+Add button function to update rides
+
+        function UpdateSearch() {
+            var startDate = $("#StartDate")[0].value;
+            var endDate = $("#EndDate")[0].value;
+            var rideStatus = $("#RideStatus").val();
+            showTotalRides(startDate, endDate, rideStatus);
+        }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
