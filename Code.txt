@@ -647,6 +647,56 @@ Adding Date picker in reports page
             border-spacing: 0;
             font-size: x-small;
         }
+
+Develop script to display rides based on filter options
+
+ function showTotalRides(startDate, endDate,rideStatus) {
+            if (startDate == null)
+                startDate = "";
+            if (endDate == null)
+                endDate = "";
+            if (rideStatus == null)
+                rideStatus = "All";
+            $.jgrid.gridUnload("#tblDetails");
+            $("#tblDetails").jqGrid({
+                url: "/DriverPage/GetTotalRides?startDate=" + startDate + "&endDate=" + endDate + "&rideCompStatus=" + rideStatus,
+                datatype: "json",
+                mtype: "GET",
+                colNames: ['', 'Date', 'Time', 'Driver Name', 'Ride Start Address', 'Ride End Address', 'Total Seats', 'Booked Seats', 'Price/Seat','Ride Status'],
+                colModel: [
+                    { name: 'TxnId', index: 'TxnId', width: 100, align: 'center', hidden: true },
+                    { name: 'Ridedate', index: 'Ridedate', width: 100, align: 'center' },
+                    { name: 'RideTime', index: 'RideTime', width: 100, sorttype: "string" },
+                    { name: 'DriverName', index: 'DriverName', align: "center", width: 120, sorttype: "string" },
+                    { name: 'StartAddress', index: 'StartAddress', align: "center", width: 200, sorttype: "string" },
+                    { name: 'EndAddress', index: 'EndAddress', align: "center", width: 200, sorttype: "string" },
+                    { name: 'TotalSeats', index: 'TotalSeats', align: "center", width: 100, sorttype: "string" },
+                    { name: 'BookedSeats', index: 'BookedSeats', align: "center", width: 100, sorttype: "string" },
+                    { name: 'SeatPrice', index: 'SeatPrice', align: "center", width: 100, sorttype: "string" },
+                    { name: 'RideCompletionStatus', index: 'RideCompletionStatus', align: "center", width: 100, sorttype: "string" },
+                ],
+                height: '100%',
+                viewrecords: true,
+                caption: "Details",
+                emptyrecords: 'No records Found',
+                rowNum: 20,
+                width: '100%',
+                pager: jQuery("#pager"),
+                cmTemplate: { sortable: false },
+                rownumbers: true,
+                altRows: true,
+                jsonReader: {
+                    root: "rows",
+                    page: "page",
+                    total: "total",
+                    records: "records",
+                    id: "",
+                    cell: "",
+                    repeatitems: false
+                }
+            });
+            return false;
+        }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
