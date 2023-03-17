@@ -508,3 +508,5 @@ Developed view profile for rider on rider page, where rider can update or cancel
 Developed the responsive UI screen for the rider page. Also researching on various hosting platforms like smarterasp.net, azure and google cloud etc..
 
 Developed a new feature in the reports page, where we can fetch the upcoming rides and completed rides and also not yet started rides in the reports page.
+
+Added drop down and a column in front-end to show ride status in reports page.
