@@ -514,3 +514,5 @@ Added drop down and a column in front-end to show ride status in reports page.
 Made our app responsive execept for the forgot password screen, currently working on UI for the password screen.
 
 Working on stored procedure for the reports page, Team is working on reports UI and based on the changes made i am changing the stored procedure.
+
+Doint research on how mark ride as Started/Cancelled/Completed(After completing the ride driver has to mark the ride status)
