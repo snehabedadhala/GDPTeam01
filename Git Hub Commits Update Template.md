@@ -516,3 +516,5 @@ Made our app responsive execept for the forgot password screen, currently workin
 Working on stored procedure for the reports page, Team is working on reports UI and based on the changes made i am changing the stored procedure.
 
 Doint research on how mark ride as Started/Cancelled/Completed(After completing the ride driver has to mark the ride status)
+
+Helping team in doing Unit testing (validating the the data in database after inserting/deleting/updating in front ent)
