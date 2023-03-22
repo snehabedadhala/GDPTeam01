@@ -525,3 +525,5 @@ Lookinv forward to deploy our application on the cloud, going through some of th
 Helping team in doing Unit testing (validating the data in database after inserting/deleting/updating in front end)
 
 Hosted the SQL server to microsoft azure and connected with our application.
+
+Created page for updating ride status.But functionality yet to provide for updating status and sending emails after update.
