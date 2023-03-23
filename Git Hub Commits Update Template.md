@@ -534,3 +534,6 @@ Deployed the sql server  into the microsoft azure cloud and able to connect succ
 
 Worked with the team and successfully deployed the Microsoft SQL server database to Microsoft azure.
 
+Doing research and working on hosting our web application on Microsoft azure cloud.
+
+
