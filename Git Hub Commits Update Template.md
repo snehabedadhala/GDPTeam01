@@ -529,3 +529,6 @@ Hosted the SQL server to microsoft azure and connected with our application.
 Created page for updating ride status.But functionality yet to provide for updating status and sending emails after update.
 
 Responsive UI for forgot password controller has been completed.
+
+Deployed the sql server  into the microsoft azure cloud and able to connect successfully with our application.
+
