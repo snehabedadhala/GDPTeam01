@@ -532,3 +532,5 @@ Responsive UI for forgot password controller has been completed.
 
 Deployed the sql server  into the microsoft azure cloud and able to connect successfully with our application.
 
+Worked with the team and successfully deployed the Microsoft SQL server database to Microsoft azure.
+
