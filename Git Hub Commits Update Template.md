@@ -536,4 +536,6 @@ Worked with the team and successfully deployed the Microsoft SQL server database
 
 Doing research and working on hosting our web application on Microsoft azure cloud.
 
+REsponsive UI for forgot password has been done.
+
 
