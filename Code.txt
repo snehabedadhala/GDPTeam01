@@ -756,6 +756,22 @@ Added function to show updated rides Status
             });
             return false;
         }
+
+
+
+Created a table to display ride information
+
+<h3 class="mt-4" style="color:#e17009;">Ride Status</h3>
+   <table class="table">
+        <tr>
+            <td>
+                <div>
+                    <table id="tblDetails"></table>
+                    <div id="pager"></div>
+                </div>
+            </td>
+        </tr>
+    </table>
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
