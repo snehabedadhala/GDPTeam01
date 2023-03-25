@@ -772,6 +772,39 @@ Created a table to display ride information
             </td>
         </tr>
     </table>
+
+
+
+Code for UI responsive - forgot password page
+
+<div class="container BackGroundImg h-100 w-100" style="max-width:100%">
+    <br /><br /><br />
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="card col-5 justify-content-center" style="background-color:#c9edc9;">
+            <div class="card-body" style="padding:0%;">
+                @using (Html.BeginForm("Index", "ForgotPwd", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <div class="text-center">
+                        <h5 class="mt-1 mb-1 pb-1">OTP</h5>
+                    </div>
+                    <div class="row mb-1">
+                        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-outline mb-1">
+                        @Html.TextBoxFor(m => m.OTP, new { @class = "form-control form-control-sm" })
+                        @Html.LabelFor(m => m.OTP, new { @class = "form-label" })
+                    </div>
+                    <div class="text-center pt-1 mb-1 pb-1">
+                        <button type="submit" class="btn btn-success btn-block mb-1">Submit</button>
+                        <a href="/ForgotPwd/GoBack" style="color:black;">Go Back</a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+</div>
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
