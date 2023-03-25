@@ -546,4 +546,6 @@ Helping team in doing unit testing and making changes in database in few cases.
 
 Researching on hosting our application in the microaoft azure cloud.
 
+Developed the responsive UI for the forgot password screens of both the rider and driver logins.
+
 
