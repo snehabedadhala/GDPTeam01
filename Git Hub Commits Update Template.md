@@ -540,4 +540,6 @@ REsponsive UI for forgot password has been done.
 
 Helping team in preparing workshop documentation and prepared for presentation.
 
+Done research on deploying database to cloud and Created an database instance in Azure.
+
 
