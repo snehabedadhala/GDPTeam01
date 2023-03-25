@@ -542,4 +542,6 @@ Helping team in preparing workshop documentation and prepared for presentation.
 
 Done research on deploying database to cloud and Created an database instance in Azure.
 
+Helping team in doing unit testing and making changes in database in few cases.
+
 
