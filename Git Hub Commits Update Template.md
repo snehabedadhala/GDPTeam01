@@ -538,4 +538,6 @@ Doing research and working on hosting our web application on Microsoft azure clo
 
 REsponsive UI for forgot password has been done.
 
+Helping team in preparing workshop documentation and prepared for presentation.
+
 
