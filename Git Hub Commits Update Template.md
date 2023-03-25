@@ -544,4 +544,6 @@ Done research on deploying database to cloud and Created an database instance in
 
 Helping team in doing unit testing and making changes in database in few cases.
 
+Researching on hosting our application in the microaoft azure cloud.
+
 
