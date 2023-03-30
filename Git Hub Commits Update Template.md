@@ -549,3 +549,5 @@ Researching on hosting our application in the microaoft azure cloud.
 Developed the responsive UI for the forgot password screens of both the rider and driver logins.
 
 Added pop-up message after login, showing login successful in driver/rider page.
+
+Working on field validations for all the fields in register screen like first name, last name, user name and so on using specific constraints with regular expressions.
