@@ -551,3 +551,6 @@ Developed the responsive UI for the forgot password screens of both the rider an
 Added pop-up message after login, showing login successful in driver/rider page.
 
 Working on field validations for all the fields in register screen like first name, last name, user name and so on using specific constraints with regular expressions.
+
+
+Developed a pop up message such as logged in successfully, after logging to driver and rider page.
