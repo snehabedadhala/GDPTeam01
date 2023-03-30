@@ -554,3 +554,5 @@ Working on field validations for all the fields in register screen like first na
 
 
 Developed a pop up message such as logged in successfully, after logging to driver and rider page.
+
+Working on the validations of all the fields like first name, last name, date of birth, address, username and password etc.. on the driver and rider registration pages. Also working on hosting the application on Microsft azure cloud.
