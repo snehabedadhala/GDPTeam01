@@ -1438,4 +1438,33 @@ Code for Update profile on driver page:
         public string EmailAddress { get; set; }
     }
 
+    foreach(DataRow dr in ds.Tables[2].Rows)
+                {
+                    riderMailReq.ToEmail = Convert.ToString(dr["RiderEmailAddress"]);
+                    try
+                    {
+                        EmailHelper.SendEmail(riderMailReq);
+                    }
+                    catch (Exception ex)
+                    {
+                        msg = msg + "But an error occured while sending email to driver";
+                    }
+                }
+                
+            }
+            return msg;
+        }
+        public IActionResult Reports()
+        {
+            if (!string.IsNullOrEmpty(HttpContext.Session.GetString("UserRole")) && HttpContext.Session.GetString("UserRole").ToUpper() == "D")
+            {
+                ViewBag.UserName = HttpContext.Session.GetString("UserName");
+                ViewBag.RideStatus = RideStatuses.GetRideStatus();
+                return View();
+            }
+            return RedirectToAction("Unauthorized", "LoginDriver");
+        }
+
+
+
       
