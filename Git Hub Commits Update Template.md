@@ -560,3 +560,8 @@ Working on the validations of all the fields like first name, last name, date of
 Check to see, tables and store procedures are properly fed into cloud hosted database(Azure).
 
 Working on field validations for the registration pages for both rider as well as driver, by giving some constraints to each field.
+
+
+Work on the validation of few fields like username, password by writing regular expressions. Also add a field to confirm password in the registration pages.
+
+Work on UI improvements by adding styles and animations.
