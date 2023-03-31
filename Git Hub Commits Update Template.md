@@ -565,3 +565,5 @@ Working on field validations for the registration pages for both rider as well a
 Work on the validation of few fields like username, password by writing regular expressions. Also add a field to confirm password in the registration pages.
 
 Work on UI improvements by adding styles and animations.
+
+Will have to work on developing drop down mwnu for rider account, where he can be able to fetch his completed rides and cancelled rides so far.
