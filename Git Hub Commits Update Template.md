@@ -558,3 +558,5 @@ Developed a pop up message such as logged in successfully, after logging to driv
 Working on the validations of all the fields like first name, last name, date of birth, address, username and password etc.. on the driver and rider registration pages. Also working on hosting the application on Microsft azure cloud.
 
 Check to see, tables and store procedures are properly fed into cloud hosted database(Azure).
+
+Working on field validations for the registration pages for both rider as well as driver, by giving some constraints to each field.
