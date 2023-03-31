@@ -840,6 +840,29 @@ Added popup message after login showing login successful in driver page
             }
             return View(loginModel);
         }
+
+
+Function to update ride status upon selection of options like completed, started, not yet started or cancelled
+
+ function UpdateRideStatus(id) {
+            $("#popupMessage").css("display", "none");
+            var Rowdata = jQuery("#tblDetails").jqGrid('getRowData', id);
+            Rowdata.RideCompletionStatus = jQuery("#newRideStats" + Rowdata.TxnId + "")[0].value;
+            $.ajax({
+                type: "POST",
+                url: "/DriverPage/UpdateRideStatus",
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(Rowdata),
+            }).done(function (data) {
+                $("#respText").text(data.responseText);
+                $("#popupMessage").css("display", "block");
+            }).fail(function (data) {
+                $("#respText").text(data.responseText);
+                $("#popupMessage").css("display", "block");
+            });
+            return false;
+        }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
