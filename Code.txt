@@ -775,7 +775,7 @@ Created a table to display ride information
 
 
 
-Code for UI responsive - forgot password page
+Code for UI responsive - forgot password
 
 <div class="container BackGroundImg h-100 w-100" style="max-width:100%">
     <br /><br /><br />
@@ -805,6 +805,41 @@ Code for UI responsive - forgot password page
     </div>
 
 </div>
+
+
+
+Added popup message after login showing login successful in driver page
+  public IActionResult Index(LoginModel loginModel)
+        {
+            ViewBag.Message = null; 
+            if (ModelState.IsValid)
+            {
+                UserDAL userDAL = new UserDAL();
+                var userSet = userDAL.Login(loginModel);
+                if(userSet.Tables[0].Rows.Count>0)
+                {
+                    string role = userSet.Tables[0].Rows[0][2].ToString();
+                    if (role.ToUpper()=="D")
+                    {
+                        HttpContext.Session.SetString("UserId", userSet.Tables[0].Rows[0][0].ToString());
+                        HttpContext.Session.SetString("UserName", userSet.Tables[0].Rows[0][1].ToString());
+                        HttpContext.Session.SetString("UserRole", role);
+                        ViewBag.Message = "Driver logged in successfully";
+                        //return RedirectToAction("Index","DriverPage");
+                    }
+                    else
+                    {
+                        ModelState.AddModelError("UserName", "User is not valid driver");
+                    }
+                    
+                }
+                else
+                {
+                    ModelState.AddModelError("UserName", "User Doesn't Exists");
+                }
+            }
+            return View(loginModel);
+        }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
