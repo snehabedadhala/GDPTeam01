@@ -570,3 +570,5 @@ Will have to work on developing drop down mwnu for rider account, where he can b
 
 creating stored procedure to sent emails after updating the ride status.
 
+Trying to solve few conversion issues while fetching to front end screen.
+
