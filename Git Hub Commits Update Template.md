@@ -572,3 +572,4 @@ creating stored procedure to sent emails after updating the ride status.
 
 Trying to solve few conversion issues while fetching to front end screen.
 
+Made changes to stored procedure where new filter conditions added in front end ride screen(  Ride staus page)
