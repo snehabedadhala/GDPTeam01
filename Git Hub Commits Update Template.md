@@ -567,3 +567,6 @@ Work on the validation of few fields like username, password by writing regular 
 Work on UI improvements by adding styles and animations.
 
 Will have to work on developing drop down mwnu for rider account, where he can be able to fetch his completed rides and cancelled rides so far.
+
+creating stored procedure to sent emails after updating the ride status.
+
