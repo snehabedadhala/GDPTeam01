@@ -579,3 +579,5 @@ Working on making the cancel button functional in driver portal which keeps us b
 Developed proper validations for all the fields on the driver and passenger registration pages.
 
  Added ride status drop-down in reports page for rider module.
+
+ Successfully hosted our Bearcat Commute web application on Microsoft azure cloud and started working on project documentation on latex editor overleaf.
