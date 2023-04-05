@@ -581,3 +581,5 @@ Developed proper validations for all the fields on the driver and passenger regi
  Added ride status drop-down in reports page for rider module.
 
  Successfully hosted our Bearcat Commute web application on Microsoft azure cloud and started working on project documentation on latex editor overleaf.
+
+Cancel button is now responsive and navigate to dashboard, for both Driver and passenger.
