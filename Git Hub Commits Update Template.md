@@ -577,3 +577,5 @@ Made changes to stored procedure where new filter conditions added in front end 
 Working on making the cancel button functional in driver portal which keeps us back on the previous page.
 
 Developed proper validations for all the fields on the driver and passenger registration pages.
+
+ Added ride status drop-down in reports page for rider module.
