@@ -575,3 +575,5 @@ Trying to solve few conversion issues while fetching to front end screen.
 Made changes to stored procedure where new filter conditions added in front end ride screen(  Ride staus page)
 
 Working on making the cancel button functional in driver portal which keeps us back on the previous page.
+
+Developed proper validations for all the fields on the driver and passenger registration pages.
