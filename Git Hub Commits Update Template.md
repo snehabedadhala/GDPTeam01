@@ -583,3 +583,5 @@ Developed proper validations for all the fields on the driver and passenger regi
  Successfully hosted our Bearcat Commute web application on Microsoft azure cloud and started working on project documentation on latex editor overleaf.
 
 Cancel button is now responsive and navigate to dashboard, for both Driver and passenger.
+
+Done with field validations for all the fields in register screen using regular expressions.
