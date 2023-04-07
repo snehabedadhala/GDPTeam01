@@ -587,3 +587,5 @@ Cancel button is now responsive and navigate to dashboard, for both Driver and p
 Done with field validations for all the fields in register screen using regular expressions.
 
 Successfully deployed the bearcat web application in the azure cloud  able to access it through the end point and use it.
+
+The field validations for both registartion pages driver and passenger has been done successfully with the constraints.
