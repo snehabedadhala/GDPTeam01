@@ -585,3 +585,5 @@ Developed proper validations for all the fields on the driver and passenger regi
 Cancel button is now responsive and navigate to dashboard, for both Driver and passenger.
 
 Done with field validations for all the fields in register screen using regular expressions.
+
+Successfully deployed the bearcat web application in the azure cloud  able to access it through the end point and use it.
