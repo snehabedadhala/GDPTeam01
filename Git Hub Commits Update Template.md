@@ -591,3 +591,5 @@ Successfully deployed the bearcat web application in the azure cloud  able to ac
 The field validations for both registartion pages driver and passenger has been done successfully with the constraints.
 
 Changed the entire name "Rider" to "Passenger" in the entire application and successful in reflecting it after deploying the app to Azure.
+
+Need to make some chnages at the UI level in the driver ride registartaton page.
