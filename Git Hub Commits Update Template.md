@@ -589,3 +589,5 @@ Done with field validations for all the fields in register screen using regular 
 Successfully deployed the bearcat web application in the azure cloud  able to access it through the end point and use it.
 
 The field validations for both registartion pages driver and passenger has been done successfully with the constraints.
+
+Changed the entire name "Rider" to "Passenger" in the entire application and successful in reflecting it after deploying the app to Azure.
