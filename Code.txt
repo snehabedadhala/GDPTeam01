@@ -863,6 +863,24 @@ Function to update ride status upon selection of options like completed, started
             });
             return false;
         }
+
+
+
+Added the function to show options in ride status:
+
+public static class RideStatuses
+    {
+        public static SelectList GetRideStatus()
+        {
+            List<SelectListItem> rideStatus = new List<SelectListItem>();
+            rideStatus.Add(new SelectListItem() { Text = "All", Value = "All" });
+            rideStatus.Add(new SelectListItem() { Text = "Started", Value = "Started" });
+            rideStatus.Add(new SelectListItem() { Text = "Completed", Value = "Completed" });
+            rideStatus.Add(new SelectListItem() { Text = "Not Yet Started", Value = "Not Yet Started" });
+            rideStatus.Add(new SelectListItem() { Text = "Cancelled", Value = "Cancelled" });
+            return new SelectList(rideStatus, "Value", "Text");
+        }
+    }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
