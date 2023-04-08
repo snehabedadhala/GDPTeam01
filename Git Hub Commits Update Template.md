@@ -593,3 +593,5 @@ The field validations for both registartion pages driver and passenger has been 
 Changed the entire name "Rider" to "Passenger" in the entire application and successful in reflecting it after deploying the app to Azure.
 
 Need to make some chnages at the UI level in the driver ride registartaton page.
+
+Added few field validations from backend(In the stored procedure)
