@@ -595,3 +595,5 @@ Changed the entire name "Rider" to "Passenger" in the entire application and suc
 Need to make some chnages at the UI level in the driver ride registartaton page.
 
 Added few field validations from backend(In the stored procedure)
+
+Application is hosted on cloud. Testing the hosted application.
