@@ -599,3 +599,5 @@ Added few field validations from backend(In the stored procedure)
 Application is hosted on cloud. Testing the hosted application.
 
 Making the database stable by changing the datatypes in a proper way. 
+
+Check to see, data entered in frontend is properly fed into backend as the Database and Application is hosted to azure.
