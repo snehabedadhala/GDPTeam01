@@ -605,3 +605,5 @@ Check to see, data entered in frontend is properly fed into backend as the Datab
 Working on Price field in ride registration page, which is taking negative numbers and seats field is accepting more than four.
 
 Working on Logout button as it shows character edit cursor, change it to Hand Cursor.
+
+Working on UI improvements like logo alligment on driver and rider home pages.
