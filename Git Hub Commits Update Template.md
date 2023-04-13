@@ -603,3 +603,5 @@ Making the database stable by changing the datatypes in a proper way.
 Check to see, data entered in frontend is properly fed into backend as the Database and Application is hosted to azure.
 
 Working on Price field in ride registration page, which is taking negative numbers and seats field is accepting more than four.
+
+Working on Logout button as it shows character edit cursor, change it to Hand Cursor.
