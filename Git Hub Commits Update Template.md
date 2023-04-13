@@ -607,3 +607,5 @@ Working on Price field in ride registration page, which is taking negative numbe
 Working on Logout button as it shows character edit cursor, change it to Hand Cursor.
 
 Working on UI improvements like logo alligment on driver and rider home pages.
+
+Working on adding the mouse cursor for the navigation when we hover mouse on logout button on driver and rider home pages.
