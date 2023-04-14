@@ -623,3 +623,5 @@ Trying to fix the conversion issue while fetching the data through stored proced
 updating few columns to increase the length of the datatype 
 
 Working on field validations in the  driver ride Registration page like price and seats fields.
+
+The field validations for all the fields in both rider and driver has been done
