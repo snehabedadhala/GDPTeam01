@@ -613,3 +613,5 @@ Working on adding the mouse cursor for the navigation when we hover mouse on log
 Working on documentation of the project and working on field validations which are mentioned by kevin.
 
 Will have to work on some improvement like adding mouse cursor on logout button when hovered.
+
+Working on validations for the price field on ride registration page of driver profile.
