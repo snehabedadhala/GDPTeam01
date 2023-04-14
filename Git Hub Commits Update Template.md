@@ -619,3 +619,5 @@ Working on validations for the price field on ride registration page of driver p
 working on midterm2 documentation and preparing for the Presentation
 
 Trying to fix the conversion issue while fetching the data through stored procedure
+
+updating few columns to increase the length of the datatype
