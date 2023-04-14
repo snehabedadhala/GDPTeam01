@@ -611,3 +611,5 @@ Working on UI improvements like logo alligment on driver and rider home pages.
 Working on adding the mouse cursor for the navigation when we hover mouse on logout button on driver and rider home pages.
 
 Working on documentation of the project and working on field validations which are mentioned by kevin.
+
+Will have to work on some improvement like adding mouse cursor on logout button when hovered.
