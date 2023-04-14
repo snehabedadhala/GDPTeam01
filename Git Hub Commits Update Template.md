@@ -615,3 +615,5 @@ Working on documentation of the project and working on field validations which a
 Will have to work on some improvement like adding mouse cursor on logout button when hovered.
 
 Working on validations for the price field on ride registration page of driver profile.
+
+working on midterm2 documentation and preparing for the Presentation
