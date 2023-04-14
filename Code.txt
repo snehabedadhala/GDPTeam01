@@ -888,6 +888,16 @@ Added confirm field in both driver and passenger registrations
                     <div class="col-md-5">@Html.LabelFor(m => m.ConfirmPassword, new { @class = "form-label" })<span style="color:red">*</span></div>
                     <div class="col-md-7">@Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control form-control-sm" })</div>
                 </div>
+
+
+
+Updated logout functionality
+
+ public IActionResult Logout()
+        {
+            HttpContext.Session.Clear();
+            return RedirectToAction("Index", "Home");
+        }
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
