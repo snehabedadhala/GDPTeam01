@@ -898,6 +898,16 @@ Updated logout functionality
             HttpContext.Session.Clear();
             return RedirectToAction("Index", "Home");
         }
+
+Add style to forgot password page by giving background Image
+
+<div class="container BackGroundImg h-100 w-100" style="max-width:100%">
+    <br /><br /><br />
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="card col-5 justify-content-center" style="background-color:#c9edc9;">
+            <div class="card-body" style="padding:0%;">
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
