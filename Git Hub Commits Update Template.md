@@ -624,4 +624,6 @@ updating few columns to increase the length of the datatype
 
 Working on field validations in the  driver ride Registration page like price and seats fields.
 
-The field validations for all the fields in both rider and driver has been done
+The field validations for all the fields in both rider and driver has been done.
+
+ Done with Price and seats field validations as the price takes only positive integers and seats takes 1 to 4 count.
