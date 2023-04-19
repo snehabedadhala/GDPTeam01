@@ -627,3 +627,5 @@ Working on field validations in the  driver ride Registration page like price an
 The field validations for all the fields in both rider and driver has been done.
 
  Done with Price and seats field validations as the price takes only positive integers and seats takes 1 to 4 count.
+
+ Working and helping team to prepare project documentation using overleaf-Latex Editor.
