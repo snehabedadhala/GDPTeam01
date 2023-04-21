@@ -916,6 +916,13 @@ Validating No.of seats field
         [Range(1,4,ErrorMessage ="Seats must be between 1 to 4")]
         public string AvaSeats { get; set; }
 
+Code for validating price field which must be greater than 0
+
+[Display(Name = "Ride Price Per Seat")]
+        [Required(ErrorMessage = "Please enter ride price per seat")]
+        [Range(0.1, double.PositiveInfinity, ErrorMessage = "Seat price must be greater than 0")]
+        public decimal SeatPrice { get; set; }
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
