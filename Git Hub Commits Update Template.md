@@ -631,3 +631,5 @@ The field validations for all the fields in both rider and driver has been done.
  Working and helping team to prepare project documentation using overleaf-Latex Editor.
 
  Done with Logout button as it shows Hand cursor symbol.
+
+ Working on testing the validations part through out the application.
