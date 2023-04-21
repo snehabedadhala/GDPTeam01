@@ -908,6 +908,14 @@ Add style to forgot password page by giving background Image
         <div class="card col-5 justify-content-center" style="background-color:#c9edc9;">
             <div class="card-body" style="padding:0%;">
 
+
+Validating No.of seats field 
+
+ [Display(Name = "No. Of Seats")]
+        [Required(ErrorMessage = "Please enter no. of seats")]
+        [Range(1,4,ErrorMessage ="Seats must be between 1 to 4")]
+        public string AvaSeats { get; set; }
+
 ********************
 ## Ram Reddy. Boppidi
 Date: 11/4/2022
