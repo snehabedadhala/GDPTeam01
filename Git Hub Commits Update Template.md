@@ -635,3 +635,5 @@ The field validations for all the fields in both rider and driver has been done.
  Working on testing the validations part through out the application.
 
  Writing the project documenatation. Currently I'm involved in writing the Implementation part which includes about frontend, backend, programming languages and about deployment platform.
+
+ Working on the documentation of the project. Completed with implementation and development parts of the document. Pending with adding few images in the project with best resolution.
