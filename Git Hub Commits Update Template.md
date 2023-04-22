@@ -646,3 +646,5 @@ The field validations for all the fields in both rider and driver has been done.
  Writing the "future work" and "acknowledgement" parts of the project document.
 
  Tested the cloud-hosted database(Tables including data,stored Procedures).
+
+ updated columns datatypes by increasing the length in tables
