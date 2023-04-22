@@ -650,3 +650,5 @@ The field validations for all the fields in both rider and driver has been done.
  updated columns datatypes by increasing the length in tables
 
  Preparing the documentation for the final presentation.
+
+  Working with the concusion part of the documentation 
