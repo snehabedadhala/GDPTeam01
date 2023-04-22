@@ -648,3 +648,5 @@ The field validations for all the fields in both rider and driver has been done.
  Tested the cloud-hosted database(Tables including data,stored Procedures).
 
  updated columns datatypes by increasing the length in tables
+
+ Preparing the documentation for the final presentation.
