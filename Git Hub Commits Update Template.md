@@ -642,3 +642,5 @@ The field validations for all the fields in both rider and driver has been done.
  Tested the  web hosted application and everything is fine.
 
  Working on Development part of the project documentationz, and few images need to be added in the documentation.
+
+ Writing the "future work" and "acknowledgement" parts of the project document.
